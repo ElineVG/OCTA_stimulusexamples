@@ -23,9 +23,6 @@ stim.positions = Positions.CreateSineGrid(n_rows = 9, n_cols = 9, row_spacing = 
 # Add bounding box sizes for the elements
 stim.boundingboxes = GridPattern.RepeatAcrossElements( [ (15,15) ] )
 
-# Add shapes for the elements
-# stim.shapes = GridPattern.RepeatAcrossElements( [ Ellipse ] )
-
 # Save stimulus
 stim.Show()
 stim.SaveSVG(stimname, folder = "svg")
