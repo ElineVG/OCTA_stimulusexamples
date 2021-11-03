@@ -11,7 +11,7 @@ from octa.Stimulus import Grid
 stimname = "example_0001"
 
 # Define stimulus
-stim = Grid(n_rows = 9, n_cols = 9)
+stim = Grid(n_rows = 5, n_cols = 5, size = (250,250))
 
 # Save stimulus
 stim.Show()
