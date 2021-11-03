@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="250" version="1.1" width="250">
-  <defs/>
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="125.0px" viewBox="0 0 125.0 125.0" height="125.0px">
+  <g>
+    <g transform="translate(0, 0) scale(0.5 0.5) "><defs/>
   <g transform=" rotate(0, 125, 125)">
     <rect fill="white" height="250" width="250" x="0" y="0"/>
     <rect fill="#4682b4" height="14.300919943288903" opacity="1" stroke-width="0" transform=" rotate(0, 24, 24)" width="19.034115301464333" x="14.5033002621137" y="16.869897941201444"/>
@@ -84,5 +85,7 @@
     <rect fill="#4682b4" height="12.452662769016062" opacity="1" stroke-width="0" transform=" rotate(0, 159, 215)" width="15.598874319704468" x="151.95507300856633" y="208.97724774395078"/>
     <rect fill="#4682b4" height="17.021701319691896" opacity="1" stroke-width="0" transform=" rotate(0, 184, 209)" width="12.60804649103936" x="178.45048692289888" y="201.24365950857265"/>
     <rect fill="#4682b4" height="16.061478106409304" opacity="1" stroke-width="0" transform=" rotate(0, 209, 209)" width="14.401151043545632" x="202.55393464664576" y="201.72377111521394"/>
+  </g>
+</g>
   </g>
 </svg>
