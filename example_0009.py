@@ -1,6 +1,6 @@
 """
 OCTA toolbox example stimuli
-Example stimulus 8
+Example stimulus 9
 created by Eline Van Geert
 """
 
@@ -10,7 +10,7 @@ from octa.patterns import GridPattern
 # from octa.shapes import Rectangle, Triangle
 
 # Define stimulus name
-stimname = "example_0008"
+stimname = "example_0009"
 
 # Define stimulus
 stim = Concentric(n_elements = 7, size = (250,250))
