@@ -13,10 +13,10 @@ from octa.shapes import Rectangle, Triangle, Ellipse
 stimname = "example_0003"
 
 # Define stimulus
-stim = Grid(n_rows = 5, n_cols = 5, size = (250,250))
+stim = Grid(n_rows = 9, n_cols = 9, row_spacing = 25, col_spacing = 25, size = (250,250))
 
 # Add bounding box sizes for the elements
-stim.boundingboxes = GridPattern.RepeatAcrossElements( [ (45,45), (30,30) ] )
+stim.boundingboxes = GridPattern.RepeatAcrossElements( [ (20,20), (15,15) ] )
 
 # Add shapes for the elements
 stim.shapes = GridPattern.RepeatAcrossLayers( [ Rectangle, Triangle, Ellipse ] )
