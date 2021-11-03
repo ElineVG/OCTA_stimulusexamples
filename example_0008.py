@@ -1,22 +1,21 @@
 """
 OCTA toolbox example stimuli
-Example stimulus 8
+Example stimulus 7
 created by Eline Van Geert
 """
 
 # Load necessary objects and functions from OCTA
-from octa.Stimulus import Concentric
+from octa.Stimulus import Outline
 from octa.patterns import GridPattern
-# from octa.shapes import Rectangle, Triangle
 
 # Define stimulus name
-stimname = "example_0008"
+stimname = "example_0007"
 
 # Define stimulus
-stim = Concentric(n_elements = 7, size = (250,250))
+stim = Outline(n_elements = 30, shape = "img/blob.svg", shape_boundingbox = (200,200), size = (250,250))
 
 # Add bounding box sizes for the elements
-stim.boundingboxes = GridPattern.GradientAcrossElements( start_value = (230,230), end_value = (10,10) )
+stim.boundingboxes = GridPattern.RepeatAcrossElements( [ (15,15) ] )
 
 # Save stimulus
 stim.Show()

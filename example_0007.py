@@ -7,7 +7,6 @@ created by Eline Van Geert
 # Load necessary objects and functions from OCTA
 from octa.Stimulus import Outline
 from octa.patterns import GridPattern
-from octa.shapes import Rectangle, Triangle
 
 # Define stimulus name
 stimname = "example_0007"
@@ -16,13 +15,7 @@ stimname = "example_0007"
 stim = Outline(n_elements = 24, shape_boundingbox = (100,100), size = (250,250))
 
 # Add bounding box sizes for the elements
-stim.boundingboxes = GridPattern.RepeatAcrossElements( [ (20,20), (15,15) ] )
-
-# Add shapes for the elements
-stim.shapes = GridPattern.RepeatAcrossElements( [ Rectangle, Triangle ] )
-
-# Add fillcolors for the elements
-stim.fillcolors = GridPattern.GradientAcrossElements( start_value = 'limegreen', end_value = 'steelblue' )
+stim.boundingboxes = GridPattern.RepeatAcrossElements( [ (15,15) ] )
 
 # Save stimulus
 stim.Show()
