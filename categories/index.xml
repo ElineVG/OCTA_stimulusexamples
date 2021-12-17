@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on OCTA stimulus examples</title>
-    <link>http://example.org/categories/</link>
+    <link>https://elinevg.github.io/OCTA_stimulusexamples/categories/</link>
     <description>Recent content in Categories on OCTA stimulus examples</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://elinevg.github.io/OCTA_stimulusexamples/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
