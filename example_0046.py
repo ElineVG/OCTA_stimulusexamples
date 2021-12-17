@@ -8,6 +8,7 @@ created by Eline Van Geert
 from octa.Stimulus import Grid
 from octa.patterns import GridPattern
 from octa.shapes import Rectangle, Ellipse, Triangle
+from octa.measurements import Order
 
 # Define stimulus name
 stimname = "example_0046"
@@ -31,3 +32,6 @@ stim.SaveSVG(stimname, scale = 0.5, folder = "svg_small")
 stim.SaveJSON(stimname, folder = "json")
 stim.SavePNG(stimname, folder = "png")
 stim.SavePNG(stimname, scale = 10, folder = "png10")
+
+# Calculate number of pattern deviants
+print( Order.CalculatePatternDeviants(stim) )

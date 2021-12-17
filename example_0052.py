@@ -8,6 +8,7 @@ created by Eline Van Geert
 from octa.Stimulus import Grid
 from octa.patterns import GridPattern
 from octa.shapes import Rectangle, Ellipse, Triangle, Polygon
+from octa.measurements import Order, Complexity
 import random
 
 # Define stimulus name
@@ -43,3 +44,9 @@ stim.SaveSVG(stimname, scale = 0.5, folder = "svg_small")
 stim.SaveJSON(stimname, folder = "json")
 stim.SavePNG(stimname, folder = "png")
 stim.SavePNG(stimname, scale = 10, folder = "png10")
+
+# Calculate number of pattern deviants
+print( Order.CalculatePatternDeviants(stim) )
+
+# Calculate LOCI value
+print( Complexity.CalculateElementsLOCI(stim, distinction_features = ['shapes', 'boundingboxes', 'fillcolors'] ) )
