@@ -13,16 +13,19 @@ from octa.shapes import Rectangle, Ellipse
 stimname = "example_0015"
 
 # Define stimulus
-stim = Grid(n_rows = 9, n_cols = 9, row_spacing = 24, col_spacing= 24, size = (250,250))
+stim = Grid(n_rows = 5, n_cols = 5, row_spacing = 40, col_spacing= 40, size = (250,250))
 
 # Add bounding box sizes for the elements
-stim.boundingboxes = GridPattern.RepeatAcrossElements( [ (15,15) ] )
+stim.boundingboxes = GridPattern.RepeatAcrossElements( [ (30,30) ] )
 
 # Add shapes for the elements
-stim.shapes = GridPattern.RepeatAcrossElements( [ Rectangle, Ellipse ] )
+stim.shapes = GridPattern.RepeatAcrossLeftDiagonal( [ Rectangle, Ellipse ] )
 
 # Add fillcolors for the elements
-stim.fillcolors = GridPattern.GradientAcrossColumns( start_value = 'limegreen', end_value = 'steelblue' )
+stim.fillcolors = GridPattern.RepeatAcrossLeftDiagonal( ['#1b9fd8', '#6dd6ff', '#006ca1']  )
+
+# Add fillcolors for the elements
+stim.orientations = GridPattern.RepeatAcrossElements( [0, 10, 20, 30, 40, 50, 60, 70, 80, 90]  )
 
 # Save stimulus
 stim.Show()

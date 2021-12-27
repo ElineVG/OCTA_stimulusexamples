@@ -4,31 +4,31 @@
     <g transform="translate(0, 0) scale(0.5 0.5) "><defs/>
   <g transform=" rotate(0, 125, 125)">
     <rect fill="white" height="250" width="250" x="0" y="0"/>
-    <rect fill="#6dd6ff" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 45, 45)" width="30" x="30.0" y="30.0"/>
-    <rect fill="#1b9fd8" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 85, 45)" width="30" x="70.0" y="30.0"/>
-    <rect fill="#006ca1" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 125, 45)" width="30" x="110.0" y="30.0"/>
-    <rect fill="#6dd6ff" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 165, 45)" width="30" x="150.0" y="30.0"/>
-    <rect fill="#1b9fd8" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 205, 45)" width="30" x="190.0" y="30.0"/>
-    <rect fill="#006ca1" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 45, 85)" width="30" x="30.0" y="70.0"/>
-    <rect fill="#6dd6ff" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 85, 85)" width="30" x="70.0" y="70.0"/>
-    <rect fill="#1b9fd8" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 125, 85)" width="30" x="110.0" y="70.0"/>
-    <rect fill="#006ca1" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 165, 85)" width="30" x="150.0" y="70.0"/>
-    <rect fill="#6dd6ff" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 205, 85)" width="30" x="190.0" y="70.0"/>
-    <rect fill="#1b9fd8" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 45, 125)" width="30" x="30.0" y="110.0"/>
-    <rect fill="#006ca1" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 85, 125)" width="30" x="70.0" y="110.0"/>
-    <rect fill="#6dd6ff" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 125, 125)" width="30" x="110.0" y="110.0"/>
-    <rect fill="#1b9fd8" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 165, 125)" width="30" x="150.0" y="110.0"/>
-    <rect fill="#006ca1" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 205, 125)" width="30" x="190.0" y="110.0"/>
-    <rect fill="#6dd6ff" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 45, 165)" width="30" x="30.0" y="150.0"/>
-    <rect fill="#1b9fd8" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 85, 165)" width="30" x="70.0" y="150.0"/>
-    <rect fill="#006ca1" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 125, 165)" width="30" x="110.0" y="150.0"/>
-    <rect fill="#6dd6ff" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 165, 165)" width="30" x="150.0" y="150.0"/>
-    <rect fill="#1b9fd8" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 205, 165)" width="30" x="190.0" y="150.0"/>
-    <rect fill="#006ca1" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 45, 205)" width="30" x="30.0" y="190.0"/>
-    <rect fill="#6dd6ff" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 85, 205)" width="30" x="70.0" y="190.0"/>
-    <rect fill="#1b9fd8" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 125, 205)" width="30" x="110.0" y="190.0"/>
-    <rect fill="#006ca1" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 165, 205)" width="30" x="150.0" y="190.0"/>
-    <rect fill="#6dd6ff" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 205, 205)" width="30" x="190.0" y="190.0"/>
+    <rect fill="#1b9fd8" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 35, 35)" width="35" x="17.5" y="17.5"/>
+    <rect fill="#1b9fd8" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 80, 35)" width="35" x="62.5" y="17.5"/>
+    <rect fill="#1b9fd8" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 125, 35)" width="35" x="107.5" y="17.5"/>
+    <rect fill="#1b9fd8" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 170, 35)" width="35" x="152.5" y="17.5"/>
+    <rect fill="#1b9fd8" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 215, 35)" width="35" x="197.5" y="17.5"/>
+    <ellipse cx="35.0" cy="80.0" fill="#6dd6ff" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 35, 80)"/>
+    <ellipse cx="80.0" cy="80.0" fill="#6dd6ff" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 80, 80)"/>
+    <ellipse cx="125.0" cy="80.0" fill="#6dd6ff" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 125, 80)"/>
+    <ellipse cx="170.0" cy="80.0" fill="#6dd6ff" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 170, 80)"/>
+    <ellipse cx="215.0" cy="80.0" fill="#6dd6ff" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 215, 80)"/>
+    <rect fill="#006ca1" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 35, 125)" width="35" x="17.5" y="107.5"/>
+    <rect fill="#006ca1" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 80, 125)" width="35" x="62.5" y="107.5"/>
+    <rect fill="#006ca1" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 125, 125)" width="35" x="107.5" y="107.5"/>
+    <rect fill="#006ca1" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 170, 125)" width="35" x="152.5" y="107.5"/>
+    <rect fill="#006ca1" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 215, 125)" width="35" x="197.5" y="107.5"/>
+    <ellipse cx="35.0" cy="170.0" fill="#1b9fd8" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 35, 170)"/>
+    <ellipse cx="80.0" cy="170.0" fill="#1b9fd8" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 80, 170)"/>
+    <ellipse cx="125.0" cy="170.0" fill="#1b9fd8" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 125, 170)"/>
+    <ellipse cx="170.0" cy="170.0" fill="#1b9fd8" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 170, 170)"/>
+    <ellipse cx="215.0" cy="170.0" fill="#1b9fd8" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 215, 170)"/>
+    <rect fill="#6dd6ff" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 35, 215)" width="35" x="17.5" y="197.5"/>
+    <rect fill="#6dd6ff" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 80, 215)" width="35" x="62.5" y="197.5"/>
+    <rect fill="#6dd6ff" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 125, 215)" width="35" x="107.5" y="197.5"/>
+    <rect fill="#6dd6ff" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 170, 215)" width="35" x="152.5" y="197.5"/>
+    <rect fill="#6dd6ff" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 215, 215)" width="35" x="197.5" y="197.5"/>
   </g>
 </g>
   </g>

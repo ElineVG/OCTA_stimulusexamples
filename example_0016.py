@@ -25,7 +25,7 @@ stim.shapes = GridPattern.RepeatAcrossLeftDiagonal( [ Rectangle, Ellipse ] )
 stim.fillcolors = GridPattern.RepeatAcrossLeftDiagonal( ['#1b9fd8', '#6dd6ff', '#006ca1']  )
 
 # Add fillcolors for the elements
-stim.orientations = GridPattern.RepeatAcrossElements( [0, 10, 20, 30, 40, 50, 60, 70, 80, 90]  )
+stim.orientations = GridPattern.RepeatAcrossElements( [0]  )
 
 # Save stimulus
 stim.Show()

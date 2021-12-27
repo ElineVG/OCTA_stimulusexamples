@@ -16,7 +16,7 @@ stimname = "example_0017"
 stim = Grid(n_rows = 5, n_cols = 5, row_spacing = 40, col_spacing= 40, size = (250,250))
 
 # Add bounding box sizes for the elements
-stim.boundingboxes = GridPattern.RepeatAcrossElements( [ (30,30) ] )
+stim.boundingboxes = GridPattern.RepeatAcrossElements( [ (30,30), (22,22) ] )
 
 # Add shapes for the elements
 stim.shapes = GridPattern.RepeatAcrossLeftDiagonal( [ Rectangle, Ellipse ] )
@@ -25,7 +25,7 @@ stim.shapes = GridPattern.RepeatAcrossLeftDiagonal( [ Rectangle, Ellipse ] )
 stim.fillcolors = GridPattern.RepeatAcrossLeftDiagonal( ['#1b9fd8', '#6dd6ff', '#006ca1']  )
 
 # Add fillcolors for the elements
-stim.orientations = GridPattern.RepeatAcrossElements( [0]  )
+stim.orientations = GridPattern.RepeatAcrossElements( [0, 10, 20, 30, 40, 50, 60, 70, 80, 90]  )
 
 # Save stimulus
 stim.Show()
