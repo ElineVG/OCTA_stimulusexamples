@@ -11,7 +11,7 @@ from octa.patterns import GridPattern
 from octa.shapes import Ellipse
 
 # Define stimulus name
-stimname = "example_0012"
+stimname = "example_0112"
 
 # Define stimulus
 stim = Grid(n_rows = 9, n_cols = 9, size = (250,250))

@@ -10,7 +10,7 @@ from octa.patterns import GridPattern
 # from octa.shapes import Rectangle, Triangle
 
 # Define stimulus name
-stimname = "example_0008"
+stimname = "example_0108"
 
 # Define stimulus
 stim = Concentric(n_elements = 7, size = (250,250))

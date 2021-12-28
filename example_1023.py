@@ -9,7 +9,7 @@ from octa.Stimulus import Outline
 from octa.patterns import GridPattern
 
 # Define stimulus name
-stimname = "example_0008"
+stimname = "example_0108"
 
 # Define stimulus
 stim = Outline(n_elements = 30, shape = "img/blob.svg", shape_boundingbox = (200,200), size = (250,250))

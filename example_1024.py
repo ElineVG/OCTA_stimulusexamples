@@ -1,6 +1,6 @@
 """
 OCTA toolbox example stimuli
-Example stimulus 7
+Example stimulus 104
 created by Eline Van Geert
 """
 
@@ -10,10 +10,11 @@ from octa.patterns import GridPattern
 from octa.shapes import Rectangle, Triangle, Ellipse
 
 # Define stimulus name
-stimname = "example_0007"
+stimname = "example_0104"
 
 # Define stimulus
-stim = Outline(n_elements = 24, shape_boundingbox = (100,100), size = (250,250))
+stim = Outline(n_elements = 24, shape_boundingbox = (100,100), size = (250,250), 
+               stim_orientation = ['animate', '0', '360', "dur='3s', additive='sum'"])
 
 # Add bounding box sizes for the elements
 stim.boundingboxes = GridPattern.RepeatAcrossElements( [ (20,20), (15,15) ] )

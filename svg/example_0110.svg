@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="250" version="1.1" width="250">
+  <defs/>
+  <g transform=" rotate(0, 125, 125)">
+    <rect fill="none" height="250" width="250" x="0" y="0"/>
+    <rect fill="#32cd32" height="25" opacity="1" stroke-width="0" transform=" rotate(0, 35, 35)" width="25" x="22.5" y="22.5"/>
+    <rect fill="#35ca50" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 80, 35)" width="20" x="70.0" y="20.0"/>
+    <rect fill="#37c76b" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 125, 35)" width="15" x="117.5" y="17.5"/>
+    <rect fill="#3ac485" height="40" opacity="1" stroke-width="0" transform=" rotate(0, 170, 35)" width="10" x="165.0" y="15.0"/>
+    <rect fill="#3cc09c" height="45" opacity="1" stroke-width="0" transform=" rotate(0, 215, 35)" width="5" x="212.5" y="12.5"/>
+    <rect fill="#35ca50" height="20" opacity="1" stroke-width="0" transform=" rotate(0, 35, 80)" width="30" x="20.0" y="70.0"/>
+    <rect fill="#37c76b" height="25" opacity="1" stroke-width="0" transform=" rotate(0, 80, 80)" width="25" x="67.5" y="67.5"/>
+    <rect fill="#3ac485" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 125, 80)" width="20" x="115.0" y="65.0"/>
+    <rect fill="#3cc09c" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 170, 80)" width="15" x="162.5" y="62.5"/>
+    <rect fill="#3fbdb2" height="40" opacity="1" stroke-width="0" transform=" rotate(0, 215, 80)" width="10" x="210.0" y="60.0"/>
+    <rect fill="#37c76b" height="15" opacity="1" stroke-width="0" transform=" rotate(0, 35, 125)" width="35" x="17.5" y="117.5"/>
+    <rect fill="#3ac485" height="20" opacity="1" stroke-width="0" transform=" rotate(0, 80, 125)" width="30" x="65.0" y="115.0"/>
+    <rect fill="#3cc09c" height="25" opacity="1" stroke-width="0" transform=" rotate(0, 125, 125)" width="25" x="112.5" y="112.5"/>
+    <rect fill="#3fbdb2" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 170, 125)" width="20" x="160.0" y="110.0"/>
+    <rect fill="#41afba" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 215, 125)" width="15" x="207.5" y="107.5"/>
+    <rect fill="#3ac485" height="10" opacity="1" stroke-width="0" transform=" rotate(0, 35, 170)" width="40" x="15.0" y="165.0"/>
+    <rect fill="#3cc09c" height="15" opacity="1" stroke-width="0" transform=" rotate(0, 80, 170)" width="35" x="62.5" y="162.5"/>
+    <rect fill="#3fbdb2" height="20" opacity="1" stroke-width="0" transform=" rotate(0, 125, 170)" width="30" x="110.0" y="160.0"/>
+    <rect fill="#41afba" height="25" opacity="1" stroke-width="0" transform=" rotate(0, 170, 170)" width="25" x="157.5" y="157.5"/>
+    <rect fill="#4498b7" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 215, 170)" width="20" x="205.0" y="155.0"/>
+    <rect fill="#3cc09c" height="5" opacity="1" stroke-width="0" transform=" rotate(0, 35, 215)" width="45" x="12.5" y="212.5"/>
+    <rect fill="#3fbdb2" height="10" opacity="1" stroke-width="0" transform=" rotate(0, 80, 215)" width="40" x="60.0" y="210.0"/>
+    <rect fill="#41afba" height="15" opacity="1" stroke-width="0" transform=" rotate(0, 125, 215)" width="35" x="107.5" y="207.5"/>
+    <rect fill="#4498b7" height="20" opacity="1" stroke-width="0" transform=" rotate(0, 170, 215)" width="30" x="155.0" y="205.0"/>
+    <rect fill="#4682b4" height="25" opacity="1" stroke-width="0" transform=" rotate(0, 215, 215)" width="25" x="202.5" y="202.5"/>
+  </g>
+</svg>

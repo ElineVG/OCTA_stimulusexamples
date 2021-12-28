@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="357" version="1.1" width="360">
-  <defs/>
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="144.0px" viewBox="0 0 144.0 142.8" height="142.8px">
+  <g>
+    <g transform="translate(0, 0) scale(0.4 0.4) "><defs/>
   <g transform=" rotate(0, 180, 178)">
     <rect fill="white" height="357" width="360" x="0" y="0"/>
     <animateTransform additive="sum" attributeName="transform" begin="click" dur="3s" from="0 180.0 178.5" to="360 180.0 178.5" type="rotate"/>
@@ -35,5 +36,7 @@
     <text fill="black" opacity="1" stroke-width="0" style="text-align: middle; font-size:16.259999999999998px; font-family: Arial" text-anchor="middle" textLength="100%" transform=" rotate(0, 234, 222)" x="234" y="227.82">b</text>
     <text fill="black" opacity="1" stroke-width="0" style="text-align: middle; font-size:16.259999999999998px; font-family: Arial" text-anchor="middle" textLength="100%" transform=" rotate(0, 246, 222)" x="246" y="227.82">e</text>
     <text fill="black" opacity="1" stroke-width="0" style="text-align: middle; font-size:16.259999999999998px; font-family: Arial" text-anchor="middle" textLength="100%" transform=" rotate(0, 258, 222)" x="258" y="227.82">r</text>
+  </g>
+</g>
   </g>
 </svg>

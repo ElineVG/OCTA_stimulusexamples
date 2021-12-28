@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="75.0px" viewBox="0 0 75.0 125.0" height="125.0px">
+  <g>
+    <g transform="translate(0, 0) scale(0.5 0.5) "><defs/>
+  <g transform=" rotate(0, 75, 125)">
+    <rect fill="white" height="250" width="150" x="0" y="0"/>
+    <path d="M 404.5,275.5 Q 383,301 403,354 T 386,427.5 T 303,386.5 T 229.5,372 T 200,369 T 172,316.5 T 108,299 T 107,257 T 93.5,176 T 98,121.5 T 190,146 T 248,106.5 T 310.5,44 T 393,64 T 450.5,124 T 446.5,208 T 404.5,275.5 Z" fill="red" opacity="1" stroke-width="0" transform=" scale(0.284530, 0.524588) translate(0.000000, 0.000000) rotate(0, 263, 238)"/>
+  </g>
+</g>
+  </g>
+</svg>

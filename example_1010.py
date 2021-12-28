@@ -10,7 +10,7 @@ from octa.patterns import GridPattern
 from octa.shapes import Ellipse
 
 # Define stimulus name
-stimname = "example_0010"
+stimname = "example_0110"
 
 # Define stimulus
 stim = Concentric(n_elements = 7, size = (250,250))
