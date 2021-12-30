@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="110.0px" viewBox="0 0 110.0 110.0" height="110.0px">
+  <g>
+    <g transform="translate(0, 0) scale(0.5 0.5) "><defs/>
+  <g transform=" rotate(0, 110, 110)">
+    <rect fill="none" height="220" width="220" x="0" y="0"/>
+    <ellipse cx="103" cy="30" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 103, 30)"/>
+    <ellipse cx="125" cy="25" fill="black" opacity="1" rx="7.5" ry="7.5" stroke-width="0" transform=" rotate(0, 125, 25)"/>
+    <ellipse cx="146" cy="35" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 146, 35)"/>
+    <ellipse cx="40" cy="85" fill="black" opacity="1" rx="7.5" ry="7.5" stroke-width="0" transform=" rotate(0, 40, 85)"/>
+    <ellipse cx="25" cy="101" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 25, 101)"/>
+    <ellipse cx="175" cy="100" fill="black" opacity="1" rx="7.5" ry="7.5" stroke-width="0" transform=" rotate(0, 175, 100)"/>
+    <ellipse cx="185" cy="117" fill="black" opacity="1" rx="12.5" ry="12.5" stroke-width="0" transform=" rotate(0, 185, 117)"/>
+    <ellipse cx="120" cy="145" fill="black" opacity="1" rx="12.5" ry="12.5" stroke-width="0" transform=" rotate(0, 120, 145)"/>
+    <ellipse cx="110" cy="168" fill="black" opacity="1" rx="12.5" ry="12.5" stroke-width="0" transform=" rotate(0, 110, 168)"/>
+  </g>
+</g>
+  </g>
+</svg>
