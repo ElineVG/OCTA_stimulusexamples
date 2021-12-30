@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="93.29165124598852px" viewBox="0 0 93.29165124598852 90.75" height="90.75px">
+  <g>
+    <g transform="translate(0, 0) scale(0.5 0.5) "><defs/>
+  <g transform=" rotate(0, 93, 90)">
+    <rect fill="white" height="181.5" width="186.58330249197704" x="0" y="0"/>
+    <ellipse cx="93.2916512459885" cy="149.5" fill="black" opacity="1" rx="25.0" ry="25.0" stroke-width="0" transform=" rotate(0, 93, 149)"/>
+    <ellipse cx="37.0" cy="52.00000000000001" fill="black" opacity="1" rx="25.0" ry="25.0" stroke-width="0" transform=" rotate(0, 37, 52)"/>
+    <ellipse cx="149.58330249197704" cy="52.00000000000001" fill="black" opacity="1" rx="25.0" ry="25.0" stroke-width="0" transform=" rotate(0, 149, 52)"/>
+    <polygon fill="white" opacity="1" points="93.29165124598853,10.373412263472282 30.79165124598814,118.62658773652767 155.79165124598885,118.62658773652775" stroke="black" stroke-width="5" transform=" rotate(0, 93, 64)"/>
+    <polygon fill="white" opacity="1" points="93.29165124598853,50.37341226347228 30.79165124598814,158.62658773652765 155.79165124598885,158.62658773652777" stroke-width="0" transform=" rotate(180, 93, 104)"/>
+  </g>
+</g>
+  </g>
+</svg>

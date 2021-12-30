@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="220.0" version="1.1" width="220.0">
+  <defs/>
+  <g transform=" rotate(0, 110, 110)">
+    <rect fill="none" height="220.0" width="220.0" x="0" y="0"/>
+    <animateTransform attributeName="transform" dur="20s" from="0 110.0 110.0" repeatCount="indefinite" to="360 110.0 110.0" type="rotate"/>
+    <rect fill="limegreen" height="20" opacity="1" stroke-width="0" transform=" rotate(360, 10, 109)" width="20" x="0.0" y="99.99999999999999">
+      <animateTransform attributeName="transform" dur="20s" from="360 10.0 109.99999999999999" repeatCount="indefinite" to="0 10.0 109.99999999999999" type="rotate"/>
+    </rect>
+    <ellipse cx="13.407417371093175" cy="84.1180954897479" fill="steelblue" opacity="1" rx="10.0" ry="10.0" stroke-width="0" transform=" rotate(360, 13, 84)">
+      <animateTransform attributeName="transform" dur="20s" from="360 13.407417371093175 84.1180954897479" repeatCount="indefinite" to="0 13.407417371093175 84.1180954897479" type="rotate"/>
+    </ellipse>
+    <rect fill="limegreen" height="20" opacity="1" stroke-width="0" transform=" rotate(360, 23, 60)" width="20" x="13.397459621556123" y="50.00000000000001">
+      <animateTransform attributeName="transform" dur="20s" from="360 23.397459621556123 60.00000000000001" repeatCount="indefinite" to="0 23.397459621556123 60.00000000000001" type="rotate"/>
+    </rect>
+    <ellipse cx="39.28932188134526" cy="39.289321881345245" fill="steelblue" opacity="1" rx="10.0" ry="10.0" stroke-width="0" transform=" rotate(360, 39, 39)">
+      <animateTransform attributeName="transform" dur="20s" from="360 39.28932188134526 39.289321881345245" repeatCount="indefinite" to="0 39.28932188134526 39.289321881345245" type="rotate"/>
+    </ellipse>
+    <rect fill="limegreen" height="20" opacity="1" stroke-width="0" transform=" rotate(360, 60, 23)" width="20" x="50.00000000000002" y="13.397459621556123">
+      <animateTransform attributeName="transform" dur="20s" from="360 60.00000000000002 23.397459621556123" repeatCount="indefinite" to="0 60.00000000000002 23.397459621556123" type="rotate"/>
+    </rect>
+    <ellipse cx="84.11809548974792" cy="13.407417371093175" fill="steelblue" opacity="1" rx="10.0" ry="10.0" stroke-width="0" transform=" rotate(360, 84, 13)">
+      <animateTransform attributeName="transform" dur="20s" from="360 84.11809548974792 13.407417371093175" repeatCount="indefinite" to="0 84.11809548974792 13.407417371093175" type="rotate"/>
+    </ellipse>
+    <rect fill="limegreen" height="20" opacity="1" stroke-width="0" transform=" rotate(360, 110, 10)" width="20" x="100.0" y="0.0">
+      <animateTransform attributeName="transform" dur="20s" from="360 110.0 10.0" repeatCount="indefinite" to="0 110.0 10.0" type="rotate"/>
+    </rect>
+    <ellipse cx="135.88190451025207" cy="13.407417371093175" fill="steelblue" opacity="1" rx="10.0" ry="10.0" stroke-width="0" transform=" rotate(360, 135, 13)">
+      <animateTransform attributeName="transform" dur="20s" from="360 135.88190451025207 13.407417371093175" repeatCount="indefinite" to="0 135.88190451025207 13.407417371093175" type="rotate"/>
+    </ellipse>
+    <rect fill="limegreen" height="20" opacity="1" stroke-width="0" transform=" rotate(360, 160, 23)" width="20" x="150.0" y="13.397459621556138">
+      <animateTransform attributeName="transform" dur="20s" from="360 160.0 23.397459621556138" repeatCount="indefinite" to="0 160.0 23.397459621556138" type="rotate"/>
+    </rect>
+    <ellipse cx="180.71067811865476" cy="39.289321881345245" fill="steelblue" opacity="1" rx="10.0" ry="10.0" stroke-width="0" transform=" rotate(360, 180, 39)">
+      <animateTransform attributeName="transform" dur="20s" from="360 180.71067811865476 39.289321881345245" repeatCount="indefinite" to="0 180.71067811865476 39.289321881345245" type="rotate"/>
+    </ellipse>
+    <rect fill="limegreen" height="20" opacity="1" stroke-width="0" transform=" rotate(360, 196, 60)" width="20" x="186.60254037844388" y="50.00000000000001">
+      <animateTransform attributeName="transform" dur="20s" from="360 196.60254037844388 60.00000000000001" repeatCount="indefinite" to="0 196.60254037844388 60.00000000000001" type="rotate"/>
+    </rect>
+    <ellipse cx="206.59258262890683" cy="84.11809548974793" fill="steelblue" opacity="1" rx="10.0" ry="10.0" stroke-width="0" transform=" rotate(360, 206, 84)">
+      <animateTransform attributeName="transform" dur="20s" from="360 206.59258262890683 84.11809548974793" repeatCount="indefinite" to="0 206.59258262890683 84.11809548974793" type="rotate"/>
+    </ellipse>
+    <rect fill="limegreen" height="20" opacity="1" stroke-width="0" transform=" rotate(360, 210, 110)" width="20" x="200.0" y="100.0">
+      <animateTransform attributeName="transform" dur="20s" from="360 210.0 110.0" repeatCount="indefinite" to="0 210.0 110.0" type="rotate"/>
+    </rect>
+    <ellipse cx="206.59258262890683" cy="135.88190451025207" fill="steelblue" opacity="1" rx="10.0" ry="10.0" stroke-width="0" transform=" rotate(360, 206, 135)">
+      <animateTransform attributeName="transform" dur="20s" from="360 206.59258262890683 135.88190451025207" repeatCount="indefinite" to="0 206.59258262890683 135.88190451025207" type="rotate"/>
+    </ellipse>
+    <rect fill="limegreen" height="20" opacity="1" stroke-width="0" transform=" rotate(360, 196, 160)" width="20" x="186.60254037844388" y="150.0">
+      <animateTransform attributeName="transform" dur="20s" from="360 196.60254037844388 160.0" repeatCount="indefinite" to="0 196.60254037844388 160.0" type="rotate"/>
+    </rect>
+    <ellipse cx="180.71067811865476" cy="180.71067811865476" fill="steelblue" opacity="1" rx="10.0" ry="10.0" stroke-width="0" transform=" rotate(360, 180, 180)">
+      <animateTransform attributeName="transform" dur="20s" from="360 180.71067811865476 180.71067811865476" repeatCount="indefinite" to="0 180.71067811865476 180.71067811865476" type="rotate"/>
+    </ellipse>
+    <rect fill="limegreen" height="20" opacity="1" stroke-width="0" transform=" rotate(360, 160, 196)" width="20" x="150.0" y="186.60254037844385">
+      <animateTransform attributeName="transform" dur="20s" from="360 160.0 196.60254037844385" repeatCount="indefinite" to="0 160.0 196.60254037844385" type="rotate"/>
+    </rect>
+    <ellipse cx="135.88190451025207" cy="206.59258262890683" fill="steelblue" opacity="1" rx="10.0" ry="10.0" stroke-width="0" transform=" rotate(360, 135, 206)">
+      <animateTransform attributeName="transform" dur="20s" from="360 135.88190451025207 206.59258262890683" repeatCount="indefinite" to="0 135.88190451025207 206.59258262890683" type="rotate"/>
+    </ellipse>
+    <rect fill="limegreen" height="20" opacity="1" stroke-width="0" transform=" rotate(360, 110, 210)" width="20" x="100.0" y="200.0">
+      <animateTransform attributeName="transform" dur="20s" from="360 110.0 210.0" repeatCount="indefinite" to="0 110.0 210.0" type="rotate"/>
+    </rect>
+    <ellipse cx="84.11809548974792" cy="206.59258262890683" fill="steelblue" opacity="1" rx="10.0" ry="10.0" stroke-width="0" transform=" rotate(360, 84, 206)">
+      <animateTransform attributeName="transform" dur="20s" from="360 84.11809548974792 206.59258262890683" repeatCount="indefinite" to="0 84.11809548974792 206.59258262890683" type="rotate"/>
+    </ellipse>
+    <rect fill="limegreen" height="20" opacity="1" stroke-width="0" transform=" rotate(360, 60, 196)" width="20" x="50.00000000000002" y="186.60254037844388">
+      <animateTransform attributeName="transform" dur="20s" from="360 60.00000000000002 196.60254037844388" repeatCount="indefinite" to="0 60.00000000000002 196.60254037844388" type="rotate"/>
+    </rect>
+    <ellipse cx="39.28932188134526" cy="180.71067811865476" fill="steelblue" opacity="1" rx="10.0" ry="10.0" stroke-width="0" transform=" rotate(360, 39, 180)">
+      <animateTransform attributeName="transform" dur="20s" from="360 39.28932188134526 180.71067811865476" repeatCount="indefinite" to="0 39.28932188134526 180.71067811865476" type="rotate"/>
+    </ellipse>
+    <rect fill="limegreen" height="20" opacity="1" stroke-width="0" transform=" rotate(360, 23, 160)" width="20" x="13.397459621556123" y="150.0">
+      <animateTransform attributeName="transform" dur="20s" from="360 23.397459621556123 160.0" repeatCount="indefinite" to="0 23.397459621556123 160.0" type="rotate"/>
+    </rect>
+    <ellipse cx="13.407417371093175" cy="135.8819045102521" fill="steelblue" opacity="1" rx="10.0" ry="10.0" stroke-width="0" transform=" rotate(360, 13, 135)">
+      <animateTransform attributeName="transform" dur="20s" from="360 13.407417371093175 135.8819045102521" repeatCount="indefinite" to="0 13.407417371093175 135.8819045102521" type="rotate"/>
+    </ellipse>
+  </g>
+</svg>

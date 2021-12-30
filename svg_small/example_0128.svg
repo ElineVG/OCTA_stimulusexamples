@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="109.0px" viewBox="0 0 109.0 109.0" height="109.0px">
+  <g>
+    <g transform="translate(0, 0) scale(1 1) "><defs/>
+  <g transform=" rotate(0, 54, 54)">
+    <rect fill="none" height="109" width="109" x="0" y="0"/>
+    <polygon fill="#54C4D0" opacity="1" points="18.25,83.66666666666666 30.75,58.66666666666666 43.25,83.66666666666666" stroke-width="0" transform=" rotate(0, 30, 71)"/>
+    <polygon fill="#54C4D0" opacity="1" points="43.25,83.66666666666666 55.75,58.66666666666666 68.25,83.66666666666666" stroke-width="0" transform=" rotate(0, 55, 71)"/>
+    <polygon fill="#54C4D0" opacity="1" points="68.25,83.66666666666666 80.75,58.66666666666666 93.25,83.66666666666666" stroke-width="0" transform=" rotate(0, 80, 71)"/>
+    <polygon fill="#54C4D0" opacity="1" points="30.75,58.666666666666664 43.25,33.666666666666664 55.75,58.666666666666664" stroke-width="0" transform=" rotate(0, 43, 46)"/>
+    <polygon fill="#54C4D0" opacity="1" points="55.75,58.666666666666664 68.25,33.666666666666664 80.75,58.666666666666664" stroke-width="0" transform=" rotate(0, 68, 46)"/>
+    <polygon fill="#54C4D0" opacity="1" points="43.25,33.666666666666664 55.75,8.666666666666664 68.25,33.666666666666664" stroke-width="0" transform=" rotate(0, 55, 21)"/>
+  </g>
+</g>
+  </g>
+</svg>

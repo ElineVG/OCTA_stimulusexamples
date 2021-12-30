@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="250" version="1.1" width="250">
+  <defs/>
+  <g transform=" rotate(0, 125, 125)">
+    <rect fill="white" height="250" width="250" x="0" y="0"/>
+    <polygon fill="limegreen" opacity="1" points="7.5,42.5 25.0,7.5 42.5,42.5" stroke-width="0" transform=" rotate(0, 25, 25)"/>
+    <polygon fill="steelblue" opacity="1" points="47.5,42.5 65.0,7.5 82.5,42.5" stroke-width="0" transform=" rotate(0, 65, 25)"/>
+    <polygon fill="limegreen" opacity="1" points="87.5,42.5 105.0,7.5 122.5,42.5" stroke-width="0" transform=" rotate(0, 105, 25)"/>
+    <polygon fill="steelblue" opacity="1" points="127.5,42.5 145.0,7.5 162.5,42.5" stroke-width="0" transform=" rotate(0, 145, 25)"/>
+    <polygon fill="limegreen" opacity="1" points="167.5,42.5 185.0,7.5 202.5,42.5" stroke-width="0" transform=" rotate(0, 185, 25)"/>
+    <polygon fill="steelblue" opacity="1" points="207.5,42.5 225.0,7.5 242.5,42.5" stroke-width="0" transform=" rotate(0, 225, 25)"/>
+    <polygon fill="limegreen" opacity="1" points="7.5,82.5 25.0,47.5 42.5,82.5" stroke-width="0" transform=" rotate(0, 25, 65)"/>
+    <polygon fill="steelblue" opacity="1" points="47.5,82.5 65.0,47.5 82.5,82.5" stroke-width="0" transform=" rotate(0, 65, 65)"/>
+    <polygon fill="limegreen" opacity="1" points="87.5,82.5 105.0,47.5 122.5,82.5" stroke-width="0" transform=" rotate(0, 105, 65)"/>
+    <polygon fill="steelblue" opacity="1" points="127.5,82.5 145.0,47.5 162.5,82.5" stroke-width="0" transform=" rotate(0, 145, 65)"/>
+    <polygon fill="limegreen" opacity="1" points="167.5,82.5 185.0,47.5 202.5,82.5" stroke-width="0" transform=" rotate(0, 185, 65)"/>
+    <polygon fill="steelblue" opacity="1" points="207.5,82.5 225.0,47.5 242.5,82.5" stroke-width="0" transform=" rotate(0, 225, 65)"/>
+    <polygon fill="limegreen" opacity="1" points="7.5,122.5 25.0,87.5 42.5,122.5" stroke-width="0" transform=" rotate(0, 25, 105)"/>
+    <polygon fill="steelblue" opacity="1" points="47.5,122.5 65.0,87.5 82.5,122.5" stroke-width="0" transform=" rotate(0, 65, 105)"/>
+    <polygon fill="limegreen" opacity="1" points="87.5,122.5 105.0,87.5 122.5,122.5" stroke-width="0" transform=" rotate(0, 105, 105)"/>
+    <polygon fill="steelblue" opacity="1" points="127.5,122.5 145.0,87.5 162.5,122.5" stroke-width="0" transform=" rotate(0, 145, 105)"/>
+    <polygon fill="limegreen" opacity="1" points="167.5,122.5 185.0,87.5 202.5,122.5" stroke-width="0" transform=" rotate(0, 185, 105)"/>
+    <polygon fill="steelblue" opacity="1" points="207.5,122.5 225.0,87.5 242.5,122.5" stroke-width="0" transform=" rotate(0, 225, 105)"/>
+    <polygon fill="limegreen" opacity="1" points="7.5,162.5 25.0,127.5 42.5,162.5" stroke-width="0" transform=" rotate(0, 25, 145)"/>
+    <polygon fill="steelblue" opacity="1" points="47.5,162.5 65.0,127.5 82.5,162.5" stroke-width="0" transform=" rotate(0, 65, 145)"/>
+    <polygon fill="limegreen" opacity="1" points="87.5,162.5 105.0,127.5 122.5,162.5" stroke-width="0" transform=" rotate(0, 105, 145)"/>
+    <polygon fill="steelblue" opacity="1" points="127.5,162.5 145.0,127.5 162.5,162.5" stroke-width="0" transform=" rotate(0, 145, 145)"/>
+    <polygon fill="limegreen" opacity="1" points="167.5,162.5 185.0,127.5 202.5,162.5" stroke-width="0" transform=" rotate(0, 185, 145)"/>
+    <polygon fill="steelblue" opacity="1" points="207.5,162.5 225.0,127.5 242.5,162.5" stroke-width="0" transform=" rotate(0, 225, 145)"/>
+    <polygon fill="limegreen" opacity="1" points="7.5,202.5 25.0,167.5 42.5,202.5" stroke-width="0" transform=" rotate(0, 25, 185)"/>
+    <polygon fill="steelblue" opacity="1" points="47.5,202.5 65.0,167.5 82.5,202.5" stroke-width="0" transform=" rotate(0, 65, 185)"/>
+    <polygon fill="limegreen" opacity="1" points="87.5,202.5 105.0,167.5 122.5,202.5" stroke-width="0" transform=" rotate(0, 105, 185)"/>
+    <polygon fill="steelblue" opacity="1" points="127.5,202.5 145.0,167.5 162.5,202.5" stroke-width="0" transform=" rotate(0, 145, 185)"/>
+    <polygon fill="limegreen" opacity="1" points="167.5,202.5 185.0,167.5 202.5,202.5" stroke-width="0" transform=" rotate(0, 185, 185)"/>
+    <polygon fill="steelblue" opacity="1" points="207.5,202.5 225.0,167.5 242.5,202.5" stroke-width="0" transform=" rotate(0, 225, 185)"/>
+    <polygon fill="limegreen" opacity="1" points="7.5,242.5 25.0,207.5 42.5,242.5" stroke-width="0" transform=" rotate(0, 25, 225)"/>
+    <polygon fill="steelblue" opacity="1" points="47.5,242.5 65.0,207.5 82.5,242.5" stroke-width="0" transform=" rotate(0, 65, 225)"/>
+    <polygon fill="limegreen" opacity="1" points="87.5,242.5 105.0,207.5 122.5,242.5" stroke-width="0" transform=" rotate(0, 105, 225)"/>
+    <polygon fill="steelblue" opacity="1" points="127.5,242.5 145.0,207.5 162.5,242.5" stroke-width="0" transform=" rotate(0, 145, 225)"/>
+    <polygon fill="limegreen" opacity="1" points="167.5,242.5 185.0,207.5 202.5,242.5" stroke-width="0" transform=" rotate(0, 185, 225)"/>
+    <polygon fill="steelblue" opacity="1" points="207.5,242.5 225.0,207.5 242.5,242.5" stroke-width="0" transform=" rotate(0, 225, 225)"/>
+  </g>
+</svg>
