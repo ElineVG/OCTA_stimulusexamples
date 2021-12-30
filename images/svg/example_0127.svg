@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="261.59999999999997px" viewBox="0 0 261.59999999999997 261.59999999999997" height="261.59999999999997px">
+  <g>
+    <g transform="translate(0, 0) scale(2.4 2.4) "><defs/>
+  <g transform=" rotate(0, 54, 54)">
+    <rect fill="none" height="109" width="109" x="0" y="0"/>
+    <polygon fill="#54C4D0" opacity="1" points="4.5,104.5 17,79.5 29.5,104.5" stroke-width="0" transform=" rotate(0, 17, 92)"/>
+    <polygon fill="#54C4D0" opacity="1" points="29.5,104.5 42,79.5 54.5,104.5" stroke-width="0" transform=" rotate(0, 42, 92)"/>
+    <polygon fill="#54C4D0" opacity="1" points="54.5,104.5 67,79.5 79.5,104.5" stroke-width="0" transform=" rotate(0, 67, 92)"/>
+    <polygon fill="#54C4D0" opacity="1" points="79.5,104.5 92,79.5 104.5,104.5" stroke-width="0" transform=" rotate(0, 92, 92)"/>
+    <polygon fill="#54C4D0" opacity="1" points="17.0,79.5 29.5,54.5 42.0,79.5" stroke-width="0" transform=" rotate(0, 29, 67)"/>
+    <polygon fill="#54C4D0" opacity="1" points="42.0,79.5 54.5,54.5 67.0,79.5" stroke-width="0" transform=" rotate(0, 54, 67)"/>
+    <polygon fill="#54C4D0" opacity="1" points="67.0,79.5 79.5,54.5 92.0,79.5" stroke-width="0" transform=" rotate(0, 79, 67)"/>
+    <polygon fill="#54C4D0" opacity="1" points="29.5,54.5 42,29.5 54.5,54.5" stroke-width="0" transform=" rotate(0, 42, 42)"/>
+    <polygon fill="#54C4D0" opacity="1" points="54.5,54.5 67,29.5 79.5,54.5" stroke-width="0" transform=" rotate(0, 67, 42)"/>
+    <polygon fill="#54C4D0" opacity="1" points="42.0,29.5 54.5,4.5 67.0,29.5" stroke-width="0" transform=" rotate(0, 54, 17)"/>
+  </g>
+</g>
+  </g>
+</svg>

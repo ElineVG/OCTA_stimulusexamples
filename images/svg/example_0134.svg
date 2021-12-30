@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="250" version="1.1" width="250">
+  <defs/>
+  <g transform=" rotate(0, 125, 125)">
+    <rect fill="none" height="250" width="250" x="0" y="0"/>
+    <ellipse cx="25.0" cy="124.99999999999999" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 25, 124)"/>
+    <ellipse cx="38.39745962155612" cy="75.0" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 38, 75)"/>
+    <ellipse cx="75.00000000000003" cy="38.39745962155612" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 75, 38)"/>
+    <ellipse cx="125.0" cy="25.0" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 125, 25)"/>
+    <ellipse cx="175.0" cy="38.39745962155614" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 175, 38)"/>
+    <ellipse cx="211.60254037844388" cy="75.0" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 211, 75)"/>
+    <ellipse cx="225.0" cy="125.0" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 225, 125)"/>
+    <ellipse cx="211.60254037844388" cy="175.0" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 211, 175)"/>
+    <ellipse cx="175.0" cy="211.60254037844385" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 175, 211)"/>
+    <ellipse cx="125.0" cy="225.0" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 125, 225)"/>
+    <ellipse cx="75.00000000000003" cy="211.60254037844388" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 75, 211)"/>
+    <ellipse cx="38.39745962155612" cy="175.0" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 38, 175)"/>
+  </g>
+</svg>

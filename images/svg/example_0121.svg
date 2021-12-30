@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="250" version="1.1" width="250">
+  <defs/>
+  <g transform=" rotate(0, 125, 125)">
+    <rect fill="none" height="250" width="250" x="0" y="0"/>
+    <polygon fill="#F39130" opacity="1" points="10.0,20.0 15.0,10.0 20.0,20.0" stroke-width="0" transform=" rotate(120, 15, 15)"/>
+    <polygon fill="#F39130" opacity="1" points="30.0,20.0 35.0,10.0 40.0,20.0" stroke-width="0" transform=" rotate(58, 35, 15)"/>
+    <polygon fill="#F39130" opacity="1" points="50.0,20.0 55.0,10.0 60.0,20.0" stroke-width="0" transform=" rotate(-79, 55, 15)"/>
+    <polygon fill="#F39130" opacity="1" points="70.0,20.0 75.0,10.0 80.0,20.0" stroke-width="0" transform=" rotate(-140, 75, 15)"/>
+    <polygon fill="#F39130" opacity="1" points="90.0,20.0 95.0,10.0 100.0,20.0" stroke-width="0" transform=" rotate(101, 95, 15)"/>
+    <polygon fill="#F39130" opacity="1" points="110.0,20.0 115.0,10.0 120.0,20.0" stroke-width="0" transform=" rotate(-99, 115, 15)"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-140, 135, 15)" width="10" x="130.0" y="10.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(60, 155, 15)" width="10" x="150.0" y="10.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(191, 175, 15)" width="10" x="170.0" y="10.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(24, 195, 15)" width="10" x="190.0" y="10.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-115, 215, 15)" width="10" x="210.0" y="10.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(102, 235, 15)" width="10" x="230.0" y="10.0"/>
+    <polygon fill="#F39130" opacity="1" points="10.0,40.0 15.0,30.0 20.0,40.0" stroke-width="0" transform=" rotate(91, 15, 35)"/>
+    <polygon fill="#F39130" opacity="1" points="30.0,40.0 35.0,30.0 40.0,40.0" stroke-width="0" transform=" rotate(-26, 35, 35)"/>
+    <polygon fill="#F39130" opacity="1" points="50.0,40.0 55.0,30.0 60.0,40.0" stroke-width="0" transform=" rotate(169, 55, 35)"/>
+    <polygon fill="#F39130" opacity="1" points="70.0,40.0 75.0,30.0 80.0,40.0" stroke-width="0" transform=" rotate(-100, 75, 35)"/>
+    <polygon fill="#F39130" opacity="1" points="90.0,40.0 95.0,30.0 100.0,40.0" stroke-width="0" transform=" rotate(-114, 95, 35)"/>
+    <polygon fill="#F39130" opacity="1" points="110.0,40.0 115.0,30.0 120.0,40.0" stroke-width="0" transform=" rotate(20, 115, 35)"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(136, 135, 35)" width="10" x="130.0" y="30.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(11, 155, 35)" width="10" x="150.0" y="30.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(109, 175, 35)" width="10" x="170.0" y="30.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(75, 195, 35)" width="10" x="190.0" y="30.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-55, 215, 35)" width="10" x="210.0" y="30.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-105, 235, 35)" width="10" x="230.0" y="30.0"/>
+    <polygon fill="#F39130" opacity="1" points="10.0,60.0 15.0,50.0 20.0,60.0" stroke-width="0" transform=" rotate(-79, 15, 55)"/>
+    <polygon fill="#F39130" opacity="1" points="30.0,60.0 35.0,50.0 40.0,60.0" stroke-width="0" transform=" rotate(-68, 35, 55)"/>
+    <polygon fill="#F39130" opacity="1" points="50.0,60.0 55.0,50.0 60.0,60.0" stroke-width="0" transform=" rotate(155, 55, 55)"/>
+    <polygon fill="#F39130" opacity="1" points="70.0,60.0 75.0,50.0 80.0,60.0" stroke-width="0" transform=" rotate(-28, 75, 55)"/>
+    <polygon fill="#F39130" opacity="1" points="90.0,60.0 95.0,50.0 100.0,60.0" stroke-width="0" transform=" rotate(24, 95, 55)"/>
+    <polygon fill="#F39130" opacity="1" points="110.0,60.0 115.0,50.0 120.0,60.0" stroke-width="0" transform=" rotate(184, 115, 55)"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(88, 135, 55)" width="10" x="130.0" y="50.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-30, 155, 55)" width="10" x="150.0" y="50.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-1, 175, 55)" width="10" x="170.0" y="50.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(91, 195, 55)" width="10" x="190.0" y="50.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(98, 215, 55)" width="10" x="210.0" y="50.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(188, 235, 55)" width="10" x="230.0" y="50.0"/>
+    <polygon fill="#F39130" opacity="1" points="10.0,80.0 15.0,70.0 20.0,80.0" stroke-width="0" transform=" rotate(-19, 15, 75)"/>
+    <polygon fill="#F39130" opacity="1" points="30.0,80.0 35.0,70.0 40.0,80.0" stroke-width="0" transform=" rotate(119, 35, 75)"/>
+    <polygon fill="#F39130" opacity="1" points="50.0,80.0 55.0,70.0 60.0,80.0" stroke-width="0" transform=" rotate(-48, 55, 75)"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(110, 75, 75)" width="10" x="70.0" y="70.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(192, 95, 75)" width="10" x="90.0" y="70.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(144, 115, 75)" width="10" x="110.0" y="70.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-41, 135, 75)" width="10" x="130.0" y="70.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-132, 155, 75)" width="10" x="150.0" y="70.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(0, 175, 75)" width="10" x="170.0" y="70.0"/>
+    <polygon fill="#B2D135" opacity="1" points="190.0,80.0 195.0,70.0 200.0,80.0" stroke-width="0" transform=" rotate(93, 195, 75)"/>
+    <polygon fill="#B2D135" opacity="1" points="210.0,80.0 215.0,70.0 220.0,80.0" stroke-width="0" transform=" rotate(-46, 215, 75)"/>
+    <polygon fill="#B2D135" opacity="1" points="230.0,80.0 235.0,70.0 240.0,80.0" stroke-width="0" transform=" rotate(-9, 235, 75)"/>
+    <polygon fill="#F39130" opacity="1" points="10.0,100.0 15.0,90.0 20.0,100.0" stroke-width="0" transform=" rotate(83, 15, 95)"/>
+    <polygon fill="#F39130" opacity="1" points="30.0,100.0 35.0,90.0 40.0,100.0" stroke-width="0" transform=" rotate(30, 35, 95)"/>
+    <polygon fill="#F39130" opacity="1" points="50.0,100.0 55.0,90.0 60.0,100.0" stroke-width="0" transform=" rotate(127, 55, 95)"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-73, 75, 95)" width="10" x="70.0" y="90.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-129, 95, 95)" width="10" x="90.0" y="90.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-143, 115, 95)" width="10" x="110.0" y="90.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(5, 135, 95)" width="10" x="130.0" y="90.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-40, 155, 95)" width="10" x="150.0" y="90.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(13, 175, 95)" width="10" x="170.0" y="90.0"/>
+    <polygon fill="#B2D135" opacity="1" points="190.0,100.0 195.0,90.0 200.0,100.0" stroke-width="0" transform=" rotate(27, 195, 95)"/>
+    <polygon fill="#B2D135" opacity="1" points="210.0,100.0 215.0,90.0 220.0,100.0" stroke-width="0" transform=" rotate(118, 215, 95)"/>
+    <polygon fill="#B2D135" opacity="1" points="230.0,100.0 235.0,90.0 240.0,100.0" stroke-width="0" transform=" rotate(98, 235, 95)"/>
+    <polygon fill="#F39130" opacity="1" points="10.0,120.0 15.0,110.0 20.0,120.0" stroke-width="0" transform=" rotate(-143, 15, 115)"/>
+    <polygon fill="#F39130" opacity="1" points="30.0,120.0 35.0,110.0 40.0,120.0" stroke-width="0" transform=" rotate(-94, 35, 115)"/>
+    <polygon fill="#F39130" opacity="1" points="50.0,120.0 55.0,110.0 60.0,120.0" stroke-width="0" transform=" rotate(161, 55, 115)"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-140, 75, 115)" width="10" x="70.0" y="110.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(41, 95, 115)" width="10" x="90.0" y="110.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(56, 115, 115)" width="10" x="110.0" y="110.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(96, 135, 115)" width="10" x="130.0" y="110.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-35, 155, 115)" width="10" x="150.0" y="110.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(61, 175, 115)" width="10" x="170.0" y="110.0"/>
+    <polygon fill="#B2D135" opacity="1" points="190.0,120.0 195.0,110.0 200.0,120.0" stroke-width="0" transform=" rotate(-90, 195, 115)"/>
+    <polygon fill="#B2D135" opacity="1" points="210.0,120.0 215.0,110.0 220.0,120.0" stroke-width="0" transform=" rotate(15, 215, 115)"/>
+    <polygon fill="#B2D135" opacity="1" points="230.0,120.0 235.0,110.0 240.0,120.0" stroke-width="0" transform=" rotate(97, 235, 115)"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(193, 15, 135)" width="10" x="10.0" y="130.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-8, 35, 135)" width="10" x="30.0" y="130.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(28, 55, 135)" width="10" x="50.0" y="130.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(129, 75, 135)" width="10" x="70.0" y="130.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-85, 95, 135)" width="10" x="90.0" y="130.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-21, 115, 135)" width="10" x="110.0" y="130.0"/>
+    <polygon fill="#B2D135" opacity="1" points="130.0,140.0 135.0,130.0 140.0,140.0" stroke-width="0" transform=" rotate(-20, 135, 135)"/>
+    <polygon fill="#B2D135" opacity="1" points="150.0,140.0 155.0,130.0 160.0,140.0" stroke-width="0" transform=" rotate(-57, 155, 135)"/>
+    <polygon fill="#B2D135" opacity="1" points="170.0,140.0 175.0,130.0 180.0,140.0" stroke-width="0" transform=" rotate(157, 175, 135)"/>
+    <polygon fill="#B2D135" opacity="1" points="190.0,140.0 195.0,130.0 200.0,140.0" stroke-width="0" transform=" rotate(107, 195, 135)"/>
+    <polygon fill="#B2D135" opacity="1" points="210.0,140.0 215.0,130.0 220.0,140.0" stroke-width="0" transform=" rotate(85, 215, 135)"/>
+    <polygon fill="#B2D135" opacity="1" points="230.0,140.0 235.0,130.0 240.0,140.0" stroke-width="0" transform=" rotate(170, 235, 135)"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-23, 15, 155)" width="10" x="10.0" y="150.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-87, 35, 155)" width="10" x="30.0" y="150.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(77, 55, 155)" width="10" x="50.0" y="150.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(91, 75, 155)" width="10" x="70.0" y="150.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-2, 95, 155)" width="10" x="90.0" y="150.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(161, 115, 155)" width="10" x="110.0" y="150.0"/>
+    <polygon fill="#B2D135" opacity="1" points="130.0,160.0 135.0,150.0 140.0,160.0" stroke-width="0" transform=" rotate(-82, 135, 155)"/>
+    <polygon fill="#B2D135" opacity="1" points="150.0,160.0 155.0,150.0 160.0,160.0" stroke-width="0" transform=" rotate(-142, 155, 155)"/>
+    <polygon fill="#B2D135" opacity="1" points="170.0,160.0 175.0,150.0 180.0,160.0" stroke-width="0" transform=" rotate(170, 175, 155)"/>
+    <polygon fill="#B2D135" opacity="1" points="190.0,160.0 195.0,150.0 200.0,160.0" stroke-width="0" transform=" rotate(-147, 195, 155)"/>
+    <polygon fill="#B2D135" opacity="1" points="210.0,160.0 215.0,150.0 220.0,160.0" stroke-width="0" transform=" rotate(11, 215, 155)"/>
+    <polygon fill="#B2D135" opacity="1" points="230.0,160.0 235.0,150.0 240.0,160.0" stroke-width="0" transform=" rotate(185, 235, 155)"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(169, 15, 175)" width="10" x="10.0" y="170.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-139, 35, 175)" width="10" x="30.0" y="170.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(179, 55, 175)" width="10" x="50.0" y="170.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-129, 75, 175)" width="10" x="70.0" y="170.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(83, 95, 175)" width="10" x="90.0" y="170.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-154, 115, 175)" width="10" x="110.0" y="170.0"/>
+    <polygon fill="#B2D135" opacity="1" points="130.0,180.0 135.0,170.0 140.0,180.0" stroke-width="0" transform=" rotate(152, 135, 175)"/>
+    <polygon fill="#B2D135" opacity="1" points="150.0,180.0 155.0,170.0 160.0,180.0" stroke-width="0" transform=" rotate(-47, 155, 175)"/>
+    <polygon fill="#B2D135" opacity="1" points="170.0,180.0 175.0,170.0 180.0,180.0" stroke-width="0" transform=" rotate(-121, 175, 175)"/>
+    <polygon fill="#B2D135" opacity="1" points="190.0,180.0 195.0,170.0 200.0,180.0" stroke-width="0" transform=" rotate(-42, 195, 175)"/>
+    <polygon fill="#B2D135" opacity="1" points="210.0,180.0 215.0,170.0 220.0,180.0" stroke-width="0" transform=" rotate(146, 215, 175)"/>
+    <polygon fill="#B2D135" opacity="1" points="230.0,180.0 235.0,170.0 240.0,180.0" stroke-width="0" transform=" rotate(135, 235, 175)"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(101, 15, 195)" width="10" x="10.0" y="190.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-20, 35, 195)" width="10" x="30.0" y="190.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-77, 55, 195)" width="10" x="50.0" y="190.0"/>
+    <polygon fill="#B2D135" opacity="1" points="70.0,200.0 75.0,190.0 80.0,200.0" stroke-width="0" transform=" rotate(-152, 75, 195)"/>
+    <polygon fill="#B2D135" opacity="1" points="90.0,200.0 95.0,190.0 100.0,200.0" stroke-width="0" transform=" rotate(-105, 95, 195)"/>
+    <polygon fill="#B2D135" opacity="1" points="110.0,200.0 115.0,190.0 120.0,200.0" stroke-width="0" transform=" rotate(-3, 115, 195)"/>
+    <polygon fill="#B2D135" opacity="1" points="130.0,200.0 135.0,190.0 140.0,200.0" stroke-width="0" transform=" rotate(11, 135, 195)"/>
+    <polygon fill="#B2D135" opacity="1" points="150.0,200.0 155.0,190.0 160.0,200.0" stroke-width="0" transform=" rotate(39, 155, 195)"/>
+    <polygon fill="#B2D135" opacity="1" points="170.0,200.0 175.0,190.0 180.0,200.0" stroke-width="0" transform=" rotate(-38, 175, 195)"/>
+    <rect fill="#5EA1D8" height="10" opacity="1" stroke-width="0" transform=" rotate(-51, 195, 195)" width="10" x="190.0" y="190.0"/>
+    <rect fill="#5EA1D8" height="10" opacity="1" stroke-width="0" transform=" rotate(131, 215, 195)" width="10" x="210.0" y="190.0"/>
+    <rect fill="#5EA1D8" height="10" opacity="1" stroke-width="0" transform=" rotate(63, 235, 195)" width="10" x="230.0" y="190.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-113, 15, 215)" width="10" x="10.0" y="210.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-18, 35, 215)" width="10" x="30.0" y="210.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(74, 55, 215)" width="10" x="50.0" y="210.0"/>
+    <polygon fill="#B2D135" opacity="1" points="70.0,220.0 75.0,210.0 80.0,220.0" stroke-width="0" transform=" rotate(-17, 75, 215)"/>
+    <polygon fill="#B2D135" opacity="1" points="90.0,220.0 95.0,210.0 100.0,220.0" stroke-width="0" transform=" rotate(-116, 95, 215)"/>
+    <polygon fill="#B2D135" opacity="1" points="110.0,220.0 115.0,210.0 120.0,220.0" stroke-width="0" transform=" rotate(-143, 115, 215)"/>
+    <polygon fill="#B2D135" opacity="1" points="130.0,220.0 135.0,210.0 140.0,220.0" stroke-width="0" transform=" rotate(71, 135, 215)"/>
+    <polygon fill="#B2D135" opacity="1" points="150.0,220.0 155.0,210.0 160.0,220.0" stroke-width="0" transform=" rotate(-91, 155, 215)"/>
+    <polygon fill="#B2D135" opacity="1" points="170.0,220.0 175.0,210.0 180.0,220.0" stroke-width="0" transform=" rotate(5, 175, 215)"/>
+    <rect fill="#5EA1D8" height="10" opacity="1" stroke-width="0" transform=" rotate(31, 195, 215)" width="10" x="190.0" y="210.0"/>
+    <rect fill="#5EA1D8" height="10" opacity="1" stroke-width="0" transform=" rotate(138, 215, 215)" width="10" x="210.0" y="210.0"/>
+    <rect fill="#5EA1D8" height="10" opacity="1" stroke-width="0" transform=" rotate(27, 235, 215)" width="10" x="230.0" y="210.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-57, 15, 235)" width="10" x="10.0" y="230.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(-16, 35, 235)" width="10" x="30.0" y="230.0"/>
+    <rect fill="#54C4D0" height="10" opacity="1" stroke-width="0" transform=" rotate(120, 55, 235)" width="10" x="50.0" y="230.0"/>
+    <polygon fill="#B2D135" opacity="1" points="70.0,240.0 75.0,230.0 80.0,240.0" stroke-width="0" transform=" rotate(147, 75, 235)"/>
+    <polygon fill="#B2D135" opacity="1" points="90.0,240.0 95.0,230.0 100.0,240.0" stroke-width="0" transform=" rotate(133, 95, 235)"/>
+    <polygon fill="#B2D135" opacity="1" points="110.0,240.0 115.0,230.0 120.0,240.0" stroke-width="0" transform=" rotate(-82, 115, 235)"/>
+    <polygon fill="#B2D135" opacity="1" points="130.0,240.0 135.0,230.0 140.0,240.0" stroke-width="0" transform=" rotate(156, 135, 235)"/>
+    <polygon fill="#B2D135" opacity="1" points="150.0,240.0 155.0,230.0 160.0,240.0" stroke-width="0" transform=" rotate(-164, 155, 235)"/>
+    <polygon fill="#B2D135" opacity="1" points="170.0,240.0 175.0,230.0 180.0,240.0" stroke-width="0" transform=" rotate(70, 175, 235)"/>
+    <rect fill="#5EA1D8" height="10" opacity="1" stroke-width="0" transform=" rotate(52, 195, 235)" width="10" x="190.0" y="230.0"/>
+    <rect fill="#5EA1D8" height="10" opacity="1" stroke-width="0" transform=" rotate(30, 215, 235)" width="10" x="210.0" y="230.0"/>
+    <rect fill="#5EA1D8" height="10" opacity="1" stroke-width="0" transform=" rotate(39, 235, 235)" width="10" x="230.0" y="230.0"/>
+  </g>
+</svg>

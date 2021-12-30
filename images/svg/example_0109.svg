@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="250" version="1.1" width="250">
+  <defs>
+    <linearGradient id="id1505" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0.0" stop-color="darkmagenta"/>
+      <stop offset="0.5" stop-color="white"/>
+      <stop offset="1.0" stop-color="darkmagenta"/>
+    </linearGradient>
+    <linearGradient id="id1506" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0.0" stop-color="#1b9fd8"/>
+      <stop offset="0.25" stop-color="white"/>
+      <stop offset="0.5" stop-color="#6dd6ff"/>
+      <stop offset="0.75" stop-color="white"/>
+      <stop offset="1.0" stop-color="#006ca1"/>
+    </linearGradient>
+    <linearGradient id="id1507" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0.0" stop-color="rgb(255,166,51)"/>
+      <stop offset="0.5" stop-color="white"/>
+      <stop offset="1.0" stop-color="rgb(255,166,51)"/>
+    </linearGradient>
+    <radialGradient id="id1508">
+      <stop offset="0.0" stop-color="white"/>
+      <stop offset="0.5" stop-color="#d3d3d3"/>
+      <stop offset="1.0" stop-color="white"/>
+    </radialGradient>
+    <linearGradient id="id1509" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0.0" stop-color="white"/>
+      <stop offset="0.5" stop-color="rgb(51,255,51)"/>
+      <stop offset="1.0" stop-color="white"/>
+    </linearGradient>
+    <radialGradient id="id1510">
+      <stop offset="0.0" stop-color="white"/>
+      <stop offset="1.0" stop-color="rgb(255,87,51)"/>
+    </radialGradient>
+    <linearGradient id="id1511" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0.0" stop-color="red"/>
+      <stop offset="0.2" stop-color="orange"/>
+      <stop offset="0.4" stop-color="green"/>
+      <stop offset="0.6000000000000001" stop-color="blue"/>
+      <stop offset="0.8" stop-color="indigo"/>
+      <stop offset="1.0" stop-color="violet"/>
+    </linearGradient>
+    <linearGradient id="id1512" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0.0" stop-color="green"/>
+      <stop offset="0.5" stop-color="white"/>
+      <stop offset="1.0" stop-color="green"/>
+    </linearGradient>
+    <linearGradient id="id1513" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0.0" stop-color="red"/>
+      <stop offset="1.0" stop-color="white"/>
+    </linearGradient>
+    <radialGradient id="id1514">
+      <stop offset="0.0" stop-color="white"/>
+      <stop offset="0.3333333333333333" stop-color="#1b9fd8"/>
+      <stop offset="0.6666666666666666" stop-color="#6dd6ff"/>
+      <stop offset="1.0" stop-color="#006ca1"/>
+    </radialGradient>
+  </defs>
+  <g transform=" rotate(0, 125, 125)">
+    <rect fill="none" height="250" width="250" x="0" y="0"/>
+    <ellipse cx="35.0" cy="35.0" fill="darkturquoise" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 35, 35)"/>
+    <ellipse cx="80.0" cy="35.0" fill="steelblue" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 80, 35)"/>
+    <ellipse cx="125.0" cy="35.0" fill="none" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 125, 35)"/>
+    <ellipse cx="170.0" cy="35.0" fill="sandybrown" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 170, 35)"/>
+    <ellipse cx="215.0" cy="35.0" fill="darkmagenta" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 215, 35)"/>
+    <ellipse cx="35.0" cy="80.0" fill="url(#id1505) none" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 35, 80)"/>
+    <ellipse cx="80.0" cy="80.0" fill="url(#id1506) none" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 80, 80)"/>
+    <ellipse cx="125.0" cy="80.0" fill="url(#id1507) none" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 125, 80)"/>
+    <ellipse cx="170.0" cy="80.0" fill="url(#id1508) none" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 170, 80)"/>
+    <ellipse cx="215.0" cy="80.0" fill="url(#id1509) none" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 215, 80)"/>
+    <ellipse cx="35.0" cy="125.0" fill="orange" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 35, 125)">
+      <set attributeName="fill" begin="click" dur="2s" to="purple"/>
+    </ellipse>
+    <ellipse cx="80.0" cy="125.0" fill="rgb(255,87,51)" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 80, 125)">
+      <set attributeName="fill" begin="click" dur="2s" to="#6dd6ff"/>
+    </ellipse>
+    <ellipse cx="125.0" cy="125.0" fill="rgb(255,51,237)" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 125, 125)">
+      <animate attributeName="fill" begin="2s" calcMode="linear" dur="10s" repeatCount="indefinite" values="red;orange;green;blue;indigo;violet;red"/>
+    </ellipse>
+    <ellipse cx="170.0" cy="125.0" fill="#1b9fd8" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 170, 125)">
+      <animate attributeName="fill" begin="2s" calcMode="discrete" dur="10s" repeatCount="indefinite" values="red;orange;green;blue;indigo;violet;red"/>
+    </ellipse>
+    <ellipse cx="215.0" cy="125.0" fill="darkturquoise" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 215, 125)">
+      <animate attributeName="fill" begin="2s" calcMode="discrete" dur="10s" repeatCount="indefinite" values="rgb(255,51,237);#6dd6ff"/>
+    </ellipse>
+    <ellipse cx="35.0" cy="170.0" fill="url(#id1510) none" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 35, 170)"/>
+    <ellipse cx="80.0" cy="170.0" fill="url(#id1511) none" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 80, 170)"/>
+    <ellipse cx="125.0" cy="170.0" fill="url(#id1512) none" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 125, 170)"/>
+    <ellipse cx="170.0" cy="170.0" fill="url(#id1513) none" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 170, 170)"/>
+    <ellipse cx="215.0" cy="170.0" fill="url(#id1514) none" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 215, 170)"/>
+    <ellipse cx="35.0" cy="215.0" fill="rgb(255,51,237)" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 35, 215)"/>
+    <ellipse cx="80.0" cy="215.0" fill="#1b9fd8" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 80, 215)"/>
+    <ellipse cx="125.0" cy="215.0" fill="#6dd6ff" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 125, 215)"/>
+    <ellipse cx="170.0" cy="215.0" fill="rgb(255,87,51)" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 170, 215)"/>
+    <ellipse cx="215.0" cy="215.0" fill="rgb(255,166,51)" opacity="1" rx="17.5" ry="17.5" stroke-width="0" transform=" rotate(0, 215, 215)"/>
+  </g>
+</svg>

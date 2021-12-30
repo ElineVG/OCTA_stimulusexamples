@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="250" version="1.1" width="250">
+  <defs/>
+  <g transform=" rotate(0, 125, 125)">
+    <rect fill="none" height="250" width="250" x="0" y="0"/>
+    <ellipse cx="125.00000000000003" cy="24.999999999999986" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 125, 24)"/>
+    <ellipse cx="91.66666666666669" cy="58.33333333333332" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 91, 58)"/>
+    <ellipse cx="58.33333333333334" cy="91.66666666666666" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 58, 91)"/>
+    <ellipse cx="25.000000000000025" cy="124.99999999999999" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 25, 124)"/>
+    <ellipse cx="58.33333333333335" cy="158.33333333333331" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 58, 158)"/>
+    <ellipse cx="91.66666666666667" cy="191.66666666666663" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 91, 191)"/>
+    <ellipse cx="125.0" cy="225.0" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 125, 225)"/>
+    <ellipse cx="158.33333333333331" cy="191.66666666666669" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 158, 191)"/>
+    <ellipse cx="191.66666666666669" cy="158.33333333333337" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 191, 158)"/>
+    <ellipse cx="225.0" cy="125.00000000000003" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 225, 125)"/>
+    <ellipse cx="191.66666666666674" cy="91.66666666666671" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 191, 91)"/>
+    <ellipse cx="158.33333333333337" cy="58.33333333333335" fill="black" opacity="1" rx="15.0" ry="15.0" stroke-width="0" transform=" rotate(0, 158, 58)"/>
+  </g>
+</svg>

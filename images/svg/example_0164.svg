@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="70" version="1.1" width="70">
+  <defs/>
+  <g transform=" rotate(0, 35, 35)">
+    <rect fill="none" height="70" width="70" x="0" y="0"/>
+    <animateTransform attributeName="transform" dur="20s" from="0 35.0 35.0" repeatCount="indefinite" to="360 35.0 35.0" type="rotate"/>
+    <rect fill="steelblue" height="50" opacity="1" stroke-width="0" transform=" rotate(0, 35, 35)" width="50" x="10.0" y="10.0"/>
+  </g>
+</svg>
