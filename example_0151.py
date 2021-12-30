@@ -2,6 +2,8 @@
 OCTA toolbox example stimuli
 Example stimulus 151
 created by Eline Van Geert
+Gabor created with: https://www.cogsci.nl/gabor-generator
+gabor-gaussian--45.00-96-12.00-0.10-0.00-255-255-255-255-255-255-0-0-0
 """
 
 # Load necessary objects and functions from OCTA

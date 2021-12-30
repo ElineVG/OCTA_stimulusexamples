@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="110.0px" viewBox="0 0 110.0 110.0" height="110.0px">
+  <g>
+    <g transform="translate(0, 0) scale(0.5 0.5) "><defs/>
+  <g transform=" rotate(0, 110, 110)">
+    <rect fill="none" height="220" width="220" x="0" y="0"/>
+    <polygon fill="#ED4569" opacity="1" points="110.00000000000001,14.89434837048563 10.000000000000014,87.5486011710217 48.196601125010496,205.10565162951633 171.80339887498945,205.10565162951633 210.0,87.54860117102174" stroke-width="0" transform=" rotate(0, 110, 110)">
+      <animate attributeName="fill" begin="0s" calcMode="linear" dur="10s" repeatCount="indefinite" values="#ED4569;#F39130;#FCE533;#B2D135;#62BD80;#54C4D0;#5EA1D8;#9C4B9C;#ED4569"/>
+    </polygon>
+    <polygon fill="#F39130" opacity="1" points="110.00000000000001,32.01336566379821 28.0,91.58985296023779 59.3212129225086,187.9866343362034 160.67878707749136,187.9866343362034 192.0,91.58985296023783" stroke-width="0" transform=" rotate(0, 110, 110)">
+      <animate attributeName="fill" begin="0s" calcMode="linear" dur="10s" repeatCount="indefinite" values="#F39130;#FCE533;#B2D135;#62BD80;#54C4D0;#5EA1D8;#9C4B9C;#ED4569;#F39130"/>
+    </polygon>
+    <polygon fill="#FCE533" opacity="1" points="110.00000000000001,49.1323829571108 46.00000000000001,95.63110474945388 70.44582472000671,170.86761704289046 149.55417527999325,170.86761704289046 174.0,95.63110474945391" stroke-width="0" transform=" rotate(0, 110, 110)">
+      <animate attributeName="fill" begin="0s" calcMode="linear" dur="10s" repeatCount="indefinite" values="#FCE533;#B2D135;#62BD80;#54C4D0;#5EA1D8;#9C4B9C;#ED4569;#F39130;#FCE533"/>
+    </polygon>
+    <polygon fill="#B2D135" opacity="1" points="110.0,66.25140025042339 64.0,99.67235653866999 81.57043651750482,153.74859974957752 138.42956348249515,153.74859974957752 156.0,99.67235653867" stroke-width="0" transform=" rotate(0, 110, 110)">
+      <animate attributeName="fill" begin="0s" calcMode="linear" dur="10s" repeatCount="indefinite" values="#B2D135;#62BD80;#54C4D0;#5EA1D8;#9C4B9C;#ED4569;#F39130;#FCE533;#B2D135"/>
+    </polygon>
+    <polygon fill="#62BD80" opacity="1" points="110.0,83.37041754373598 82.0,103.71360832788608 92.69504831500294,136.6295824562646 127.30495168499705,136.6295824562646 138.0,103.71360832788609" stroke-width="0" transform=" rotate(0, 110, 110)">
+      <animate attributeName="fill" begin="0s" calcMode="linear" dur="10s" repeatCount="indefinite" values="#62BD80;#54C4D0;#5EA1D8;#9C4B9C;#ED4569;#F39130;#FCE533;#B2D135;#62BD80"/>
+    </polygon>
+    <polygon fill="#54C4D0" opacity="1" points="110.0,100.48943483704856 100.0,107.75486011710217 103.81966011250105,119.51056516295164 116.18033988749895,119.51056516295164 120.0,107.75486011710217" stroke-width="0" transform=" rotate(0, 110, 110)">
+      <animate attributeName="fill" begin="0s" calcMode="linear" dur="10s" repeatCount="indefinite" values="#54C4D0;#5EA1D8;#9C4B9C;#ED4569;#F39130;#FCE533;#B2D135;#62BD80;#54C4D0"/>
+    </polygon>
+  </g>
+</g>
+  </g>
+</svg>

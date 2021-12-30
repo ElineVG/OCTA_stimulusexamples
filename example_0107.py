@@ -2,6 +2,9 @@
 OCTA toolbox example stimuli
 Example stimulus 107
 created by Eline Van Geert
+Using butterfly image from the Auckland Optotypes (Hamm et al., 2018)
+https://github.com/dakinlab/OpenOptotypes
+https://doi.org/10.1167/18.3.13
 """
 
 # Load necessary objects and functions from OCTA

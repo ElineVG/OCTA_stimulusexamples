@@ -2,6 +2,7 @@
 OCTA toolbox example stimuli
 Example stimulus 99
 created by Eline Van Geert
+Image used CC0: https://www.svgrepo.com/svg/36942/flower-with-rounded-petals
 """
 
 # Load necessary objects and functions from OCTA

@@ -2,6 +2,7 @@
 OCTA toolbox example stimuli
 Example stimulus 152
 created by Eline Van Geert
+Images used: https://uxwing.com/padlock-icon/ and https://uxwing.com/unlocked-icon/
 """
 
 # Load necessary objects and functions from OCTA

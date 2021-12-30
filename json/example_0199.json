@@ -1,0 +1,55 @@
+{
+    "stimulus": {
+        "stimulustype": "Concentric",
+        "n_elements": 6,
+        "n_rows": 1,
+        "n_cols": 6,
+        "row_spacing": 50,
+        "col_spacing": 50,
+        "shape": null,
+        "shape_boundingbox": null,
+        "autosize_method": "maximum_boundingbox",
+        "x_margin": "auto",
+        "y_margin": "auto",
+        "size": [
+            220,
+            220
+        ],
+        "width": 220,
+        "height": 220,
+        "background_color": "none",
+        "background_shape": "\"auto\"",
+        "stim_mask": "\"none\"",
+        "stim_orientation": 0,
+        "stim_mirrorvalue": null,
+        "stim_link": null,
+        "stim_classlabel": null,
+        "stim_idlabel": null
+    },
+    "positions": {
+        "positiontype": "CustomPositions",
+        "positionparameters": "{\"x\": {\"py/object\": \"octa.patterns.Pattern.Pattern\", \"pattern\": [0, 0, 0, 0, 0, 0], \"patternclass\": \"Pattern\", \"patterntype\": \"\", \"patterndirection\": \"\"}, \"y\": {\"py/object\": \"octa.patterns.Pattern.Pattern\", \"pattern\": [0, 0, 0, 0, 0, 0], \"patternclass\": \"Pattern\", \"patterntype\": \"\", \"patterndirection\": \"\"}}",
+        "jitter": null,
+        "jitterparameters": "{}",
+        "deviation": null,
+        "deviationparameters": "{}"
+    },
+    "elements": {
+        "element_id": "[0, 1, 2, 3, 4, 5]",
+        "positions": "{\"py/object\": \"octa.Positions.Positions\", \"_x\": {\"py/object\": \"octa.patterns.Pattern.Pattern\", \"pattern\": [0, 0, 0, 0, 0, 0], \"patternclass\": \"Pattern\", \"patterntype\": \"\", \"patterndirection\": \"\"}, \"_y\": {\"py/object\": \"octa.patterns.Pattern.Pattern\", \"pattern\": [0, 0, 0, 0, 0, 0], \"patternclass\": \"Pattern\", \"patterntype\": \"\", \"patterndirection\": \"\"}, \"_position_type\": \"CustomPositions\", \"_position_parameters\": {\"x\": {\"py/id\": 1}, \"y\": {\"py/id\": 3}}, \"_deviation\": null, \"_deviation_parameters\": {}, \"_jitter\": null, \"_jitter_parameters\": {}}",
+        "shapes": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [{\"py/type\": \"octa.shapes.RegularPolygon.RegularPolygon_\"}], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 6, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "boundingboxes": "{\"py/object\": \"octa.patterns.GridPattern.GradientAcrossElements\", \"start_value\": {\"py/tuple\": [200, 200]}, \"end_value\": {\"py/tuple\": [20, 20]}, \"n_rows\": 1, \"n_cols\": 6, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null, \"pattern\": [{\"py/tuple\": [200, 200]}, {\"py/tuple\": [164.0, 164.0]}, {\"py/tuple\": [128.0, 128.0]}, {\"py/tuple\": [92.0, 92.0]}, {\"py/tuple\": [56.0, 56.0]}, {\"py/tuple\": [20.0, 20.0]}], \"patterntype\": \"Gradient\", \"patterndirection\": \"AcrossElements\"}",
+        "fillcolors": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [[\"animate\", \"#ED4569\", \"values = \\\"#ED4569;#F39130;#FCE533;#B2D135;#62BD80;#54C4D0;#5EA1D8;#9C4B9C;#ED4569\\\", begin = \\\"0s\\\", calcMode = \\\"linear\\\", dur = \\\"10s\\\", repeatCount = \\\"indefinite\\\"\"], [\"animate\", \"#F39130\", \"values = \\\"#F39130;#FCE533;#B2D135;#62BD80;#54C4D0;#5EA1D8;#9C4B9C;#ED4569;#F39130\\\", begin = \\\"0s\\\", calcMode = \\\"linear\\\", dur = \\\"10s\\\", repeatCount = \\\"indefinite\\\"\"], [\"animate\", \"#FCE533\", \"values = \\\"#FCE533;#B2D135;#62BD80;#54C4D0;#5EA1D8;#9C4B9C;#ED4569;#F39130;#FCE533\\\", begin = \\\"0s\\\", calcMode = \\\"linear\\\", dur = \\\"10s\\\", repeatCount = \\\"indefinite\\\"\"], [\"animate\", \"#B2D135\", \"values = \\\"#B2D135;#62BD80;#54C4D0;#5EA1D8;#9C4B9C;#ED4569;#F39130;#FCE533;#B2D135\\\", begin = \\\"0s\\\", calcMode = \\\"linear\\\", dur = \\\"10s\\\", repeatCount = \\\"indefinite\\\"\"], [\"animate\", \"#62BD80\", \"values = \\\"#62BD80;#54C4D0;#5EA1D8;#9C4B9C;#ED4569;#F39130;#FCE533;#B2D135;#62BD80\\\", begin = \\\"0s\\\", calcMode = \\\"linear\\\", dur = \\\"10s\\\", repeatCount = \\\"indefinite\\\"\"], [\"animate\", \"#54C4D0\", \"values = \\\"#54C4D0;#5EA1D8;#9C4B9C;#ED4569;#F39130;#FCE533;#B2D135;#62BD80;#54C4D0\\\", begin = \\\"0s\\\", calcMode = \\\"linear\\\", dur = \\\"10s\\\", repeatCount = \\\"indefinite\\\"\"]], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 6, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "orientations": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [0], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 6, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "borderwidths": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [0], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 6, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "bordercolors": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [\"\"], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 6, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "opacities": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [1], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 6, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "mirrorvalues": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [\"\"], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 6, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "links": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [\"\"], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 6, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "idlabels": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [\"\"], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 6, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "classlabels": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [\"\"], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 6, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "data": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [5], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 6, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "overrides": "[{}, {}, {}, {}, {}, {}]",
+        "element_order": "[0, 1, 2, 3, 4, 5]"
+    }
+}

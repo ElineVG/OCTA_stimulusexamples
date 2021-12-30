@@ -2,6 +2,7 @@
 OCTA toolbox example stimuli
 Example stimulus 153
 created by Eline Van Geert
+Checkmark used: https://www.onlinewebfonts.com/icon/98068
 """
 
 # Load necessary objects and functions from OCTA

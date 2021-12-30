@@ -2,6 +2,9 @@
 OCTA toolbox example stimuli
 Example stimulus 108
 created by Eline Van Geert
+Natural flower image used: CC by Hůla and Flegr (2016)
+https://doi.org/10.7717/peerj.2106
+https://figshare.com/s/7306f12659f68f7f3d9d
 """
 
 # Load necessary objects and functions from OCTA

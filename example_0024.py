@@ -2,6 +2,7 @@
 OCTA toolbox example stimuli
 Example stimulus 24
 created by Eline Van Geert
+Images used CC0: https://www.svgrepo.com/svg/122009/flower
 """
 
 # Load necessary objects and functions from OCTA

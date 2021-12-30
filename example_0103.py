@@ -2,6 +2,16 @@
 OCTA toolbox example stimuli
 Example stimulus 103
 created by Eline Van Geert
+
+Checkmark used: https://www.onlinewebfonts.com/icon/98068
+
+Natural flower image used: CC by Hůla and Flegr (2016)
+https://doi.org/10.7717/peerj.2106
+https://figshare.com/s/7306f12659f68f7f3d9d
+
+Using butterfly image from the Auckland Optotypes (Hamm et al., 2018)
+https://github.com/dakinlab/OpenOptotypes
+https://doi.org/10.1167/18.3.13
 """
 
 # Load necessary objects and functions from OCTA
