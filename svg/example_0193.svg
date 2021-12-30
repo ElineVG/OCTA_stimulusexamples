@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="224" version="1.1" width="219">
+  <defs/>
+  <g transform=" rotate(0, 109, 112)">
+    <rect fill="white" height="224" width="219" x="0" y="0"/>
+    <polygon fill="black" opacity="1" points="22.000000000000004,24.5 -0.5,46.99999999999999 21.999999999999993,69.5 44.5,47.00000000000001" stroke-width="0" transform=" rotate(90, 22, 47)"/>
+    <polygon fill="black" opacity="1" points="87.0,-0.5 64.5,21.999999999999996 87.0,44.5 109.5,22.000000000000007" stroke-width="0" transform=" rotate(90, 87, 22)"/>
+    <polygon fill="black" opacity="1" points="132.0,-0.5 109.5,21.999999999999996 132.0,44.5 154.5,22.000000000000007" stroke-width="0" transform=" rotate(90, 132, 22)"/>
+    <polygon fill="black" opacity="1" points="197.0,24.5 174.5,46.99999999999999 197.0,69.5 219.5,47.00000000000001" stroke-width="0" transform=" rotate(90, 197, 47)"/>
+    <polygon fill="black" opacity="1" points="22.000000000000004,69.5 -0.5,92.0 21.999999999999993,114.5 44.5,92.0" stroke-width="0" transform=" rotate(90, 22, 92)"/>
+    <polygon fill="black" opacity="1" points="87.0,69.5 64.5,92.0 87.0,114.5 109.5,92.0" stroke-width="0" transform=" rotate(90, 87, 92)"/>
+    <polygon fill="black" opacity="1" points="132.0,69.5 109.5,92.0 132.0,114.5 154.5,92.0" stroke-width="0" transform=" rotate(90, 132, 92)"/>
+    <polygon fill="black" opacity="1" points="197.0,69.5 174.5,92.0 197.0,114.5 219.5,92.0" stroke-width="0" transform=" rotate(90, 197, 92)"/>
+    <polygon fill="black" opacity="1" points="22.000000000000004,139.5 -0.5,162.0 21.999999999999993,184.5 44.5,162.0" stroke-width="0" transform=" rotate(90, 22, 162)"/>
+    <polygon fill="black" opacity="1" points="87.0,139.5 64.5,162.0 87.0,184.5 109.5,162.0" stroke-width="0" transform=" rotate(90, 87, 162)"/>
+    <polygon fill="black" opacity="1" points="132.0,139.5 109.5,162.0 132.0,184.5 154.5,162.0" stroke-width="0" transform=" rotate(90, 132, 162)"/>
+    <polygon fill="black" opacity="1" points="109.5,179.5 87.0,202.0 109.5,224.5 132.0,202.0" stroke-width="0" transform=" rotate(90, 109, 202)"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="166" version="1.1" width="166">
+  <defs/>
+  <g transform=" rotate(0, 83, 83)">
+    <rect fill="none" height="166" width="166" x="0" y="0"/>
+    <polygon fill="none" opacity="1" points="5.0,91.5 20,74.5 35.0,91.5" stroke="grey" stroke-width="1" transform=" rotate(90, 20, 83)"/>
+    <polygon fill="none" opacity="1" points="23.0,91.5 38,74.5 53.0,91.5" stroke="grey" stroke-width="1" transform=" rotate(90, 38, 83)"/>
+    <polygon fill="none" opacity="1" points="41.0,91.5 56,74.5 71.0,91.5" stroke="grey" stroke-width="1" transform=" rotate(90, 56, 83)"/>
+    <polygon fill="none" opacity="1" points="59.0,91.5 74,74.5 89.0,91.5" stroke="grey" stroke-width="1" transform=" rotate(90, 74, 83)"/>
+    <polygon fill="none" opacity="1" points="77.0,91.5 92,74.5 107.0,91.5" stroke="grey" stroke-width="1" transform=" rotate(90, 92, 83)"/>
+    <polygon fill="none" opacity="1" points="95.0,91.5 110,74.5 125.0,91.5" stroke="grey" stroke-width="1" transform=" rotate(90, 110, 83)"/>
+    <polygon fill="none" opacity="1" points="113.0,91.5 128,74.5 143.0,91.5" stroke="grey" stroke-width="1" transform=" rotate(90, 128, 83)"/>
+    <polygon fill="none" opacity="1" points="131.0,91.5 146,74.5 161.0,91.5" stroke="grey" stroke-width="1" transform=" rotate(90, 146, 83)"/>
+  </g>
+</svg>

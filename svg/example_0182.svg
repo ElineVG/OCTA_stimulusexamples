@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="235" version="1.1" width="235">
+  <defs/>
+  <g transform=" rotate(0, 117, 117)">
+    <rect fill="none" height="235" width="235" x="0" y="0"/>
+    <rect fill="black" height="50" opacity="1" stroke-width="0" transform=" rotate(0, 25, 35)" width="50" x="0.0" y="10.0"/>
+    <rect fill="black" height="30" opacity="1" stroke-width="0" transform=" rotate(0, 66, 55)" width="30" x="51.0" y="40.0"/>
+    <rect fill="black" height="20" opacity="1" stroke-width="0" transform=" rotate(0, 66, 90)" width="20" x="56.0" y="80.0"/>
+    <rect fill="black" height="45" opacity="1" stroke-width="0" transform=" rotate(0, 57, 125)" width="45" x="34.5" y="102.5"/>
+    <rect fill="black" height="45" opacity="1" stroke-width="0" transform=" rotate(0, 205, 25)" width="45" x="182.5" y="2.5"/>
+    <rect fill="black" height="35" opacity="1" stroke-width="0" transform=" rotate(0, 162, 50)" width="35" x="144.5" y="32.5"/>
+    <rect fill="black" height="25" opacity="1" stroke-width="0" transform=" rotate(0, 210, 65)" width="25" x="197.5" y="52.5"/>
+  </g>
+</svg>

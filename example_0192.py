@@ -1,32 +1,30 @@
 """
 OCTA toolbox example stimuli
-Example stimulus 164
+Example stimulus 192
 created by Eline Van Geert
+based on Garner & Clement (1963)
 """
 
 # Load necessary objects and functions from OCTA
-from octa.Stimulus import Outline
-from octa.Positions import Positions
+from octa.Stimulus import Grid
 from octa.patterns import GridPattern
 from octa.shapes import Ellipse
 
 # Define stimulus name
-stimname = "example_0163"
+stimname = "example_0192"
 
 # Define stimulus
-stim = Outline(n_elements = 6, size = (500,250))
-
-# Change element positions
-stim.positions = Positions.CreateCircle(100, 10, starting_point = "right")
+stim = Grid(n_rows = 3, n_cols = 3, background_color = "none", size = (250,250))
 
 # Add bounding box sizes for the elements
-stim.boundingboxes = GridPattern.RepeatAcrossElements( [ (30,30) ] )
+stim.boundingboxes = GridPattern.RepeatAcrossElements( [(30,30)])
 
 # Add shapes for the elements
 stim.shapes = GridPattern.RepeatAcrossElements( [ Ellipse ] )
 
 # Add fillcolors for the elements
-stim.fillcolors = GridPattern.RepeatAcrossElements( [ "orange" ] )
+stim.fillcolors = GridPattern.RepeatAcrossElements( [ 'black' ] )
+stim.set_element_fillcolors(element_id = [0,4,6,8], fillcolor_value = 'none')
 
 # Save stimulus
 stim.Show()
