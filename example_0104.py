@@ -13,7 +13,7 @@ from octa.shapes import Rectangle, Triangle, Ellipse
 stimname = "example_0104"
 
 # Define stimulus
-stim = Outline(n_elements = 24, shape_boundingbox = (100,100), size = (250,250), 
+stim = Outline(n_elements = 24, shape_boundingbox = (100,100), size = (250,250), background_color = "none", 
                stim_orientation = ['animate', '0', '360', "dur='10s', repeatCount = 'indefinite', additive='sum'"])
 
 # Add bounding box sizes for the elements

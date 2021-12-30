@@ -13,7 +13,7 @@ from octa.shapes import PathSvg
 stimname = "example_0107"
 
 # Define stimulus
-stim = Concentric( n_elements = 1,  size = (250,250), 
+stim = Concentric( n_elements = 1, background_color = "none", size = (250,250), 
                    stim_orientation = ['animate', '0', '360', "dur='10s', repeatCount = 'indefinite', additive='sum'"] )
 
 # Add bounding box sizes for the elements

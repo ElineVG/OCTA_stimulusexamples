@@ -13,7 +13,7 @@ from octa.shapes import PathSvg
 stimname = "example_0106"
 
 # Define stimulus
-stim = Concentric( n_elements = 1,  size = (150,250) )
+stim = Concentric( n_elements = 1, background_color = "none", size = (150,250) )
 
 # Add bounding box sizes for the elements
 stim.boundingboxes = GridPattern.RepeatAcrossElements( [ (150,250) ] )

@@ -13,7 +13,7 @@ from octa.shapes import Rectangle
 stimname = "example_0105"
 
 # Define stimulus
-stim = Concentric( n_elements = 1,  size = (250,250),
+stim = Concentric( n_elements = 1, background_color = "none", size = (250,250),
                    stim_orientation = ['animate', '0', '360', "dur='10s', repeatCount = 'indefinite', additive='sum'"])
 
 # Add bounding box sizes for the elements

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='ASCII' standalone='yes'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="80.5px" viewBox="0 0 80.5 146.5" height="146.5px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="64.4px" viewBox="0 0 64.4 117.2" height="117.2px">
   <g>
-    <g transform="translate(0, 0) scale(0.5 0.5) "><defs/>
+    <g transform="translate(0, 0) scale(0.4 0.4) "><defs/>
   <g transform=" rotate(0, 80, 146)">
     <rect fill="none" height="293" width="161" x="0" y="0"/>
     <ellipse cx="139" cy="108" fill="dodgerblue" opacity="1" rx="10.0" ry="10.0" stroke-width="0" transform=" rotate(0, 139, 108)"/>

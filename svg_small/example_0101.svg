@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='ASCII' standalone='yes'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="180.0px" viewBox="0 0 180.0 178.5" height="178.5px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="125.99999999999999px" viewBox="0 0 125.99999999999999 124.94999999999999" height="124.94999999999999px">
   <g>
-    <g transform="translate(0, 0) scale(0.5 0.5) "><defs/>
+    <g transform="translate(0, 0) scale(0.35 0.35) "><defs/>
   <g transform=" rotate(0, 180, 178)">
     <rect fill="white" height="357" width="360" x="0" y="0"/>
     <animateTransform additive="sum" attributeName="transform" begin="click" dur="3s" from="0 180.0 178.5" to="360 180.0 178.5" type="rotate"/>

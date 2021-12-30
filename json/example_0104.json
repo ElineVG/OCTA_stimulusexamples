@@ -20,7 +20,7 @@
         ],
         "width": 250,
         "height": 250,
-        "background_color": "white",
+        "background_color": "none",
         "background_shape": "\"auto\"",
         "stim_mask": "\"none\"",
         "stim_orientation": [

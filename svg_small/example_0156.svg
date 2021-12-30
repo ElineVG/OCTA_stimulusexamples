@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='ASCII' standalone='yes'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="250.0px" viewBox="0 0 250.0 250.0" height="250.0px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="150.0px" viewBox="0 0 150.0 150.0" height="150.0px">
   <g>
-    <g transform="translate(0, 0) scale(0.5 0.5) "><defs>
+    <g transform="translate(0, 0) scale(0.3 0.3) "><defs>
     <clipPath id="custom_clip_path">
       <ellipse cx="250.0" cy="250.0" fill="none" opacity="1" rx="250.0" ry="250.0" stroke="none" stroke-width="0" transform=" rotate(0, 0, 0)"/>
     </clipPath>

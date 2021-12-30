@@ -38,7 +38,7 @@ stim.set_element_boundingbox(15, boundingbox_value = (93.63*1.075, 122.88*1.075)
 # Save stimulus
 stim.Show()
 stim.SaveSVG(stimname, scale = 0.25, folder = "svg")
-stim.SaveSVG(stimname, scale = 0.5, folder = "svg_small")
+stim.SaveSVG(stimname, scale = 0.15, folder = "svg_small")
 stim.SaveJSON(stimname, folder = "json")
 stim.SavePNG(stimname, folder = "png")
 stim.SavePNG(stimname, scale = 10, folder = "png10")
