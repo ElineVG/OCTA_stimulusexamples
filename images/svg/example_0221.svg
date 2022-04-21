@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="113.73502691896257" version="1.1" width="200">
+  <defs/>
+  <g transform=" rotate(0, 100, 56)">
+    <rect fill="none" height="113.73502691896257" width="200" x="0" y="0"/>
+    <polygon fill="#5EA1D8" opacity="1" points="0.0,114.60254037844386 100,56.86751345948129 200.0,114.60254037844386" stroke-width="0" transform=" rotate(0, 100, 85)"/>
+    <text fill="lightgrey" opacity="1" stroke-width="0" style="text-align: middle; font-size:47.425px; font-family: Arial" text-anchor="middle" textLength="100%" transform=" rotate(0, 107, 85)" x="107" y="102.71002691896257">L</text>
+  </g>
+</svg>
