@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="200.0px" viewBox="0 0 200.0 346.2050807568877" height="346.2050807568877px">
+  <g>
+    <g transform="translate(0, 0) scale(0.5 0.5) "><defs/>
+  <g transform=" rotate(0, 200, 346)">
+    <rect fill="none" height="692.4101615137754" width="400" x="0" y="0"/>
+    <polygon fill="#5EA1D8" opacity="1" points="300.0,172.99999999999997 200.0,346.20508075688764 300.0,519.4101615137754 400.0,346.20508075688775" stroke-width="0" transform=" rotate(0, 300, 346)"/>
+    <text fill="lightgrey" opacity="1" stroke-width="0" style="text-align: middle; font-size:94.85px; font-family: Arial" text-anchor="middle" textLength="100%" transform=" rotate(120, 300, 346)" x="300" y="380.1550807568877">L</text>
+  </g>
+</g>
+  </g>
+</svg>

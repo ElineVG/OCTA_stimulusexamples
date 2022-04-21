@@ -1,0 +1,58 @@
+{
+    "stimulus": {
+        "stimulustype": "Outline",
+        "n_elements": 18,
+        "n_rows": 1,
+        "n_cols": 18,
+        "row_spacing": 50,
+        "col_spacing": 50,
+        "shape": "Ellipse",
+        "shape_boundingbox": [
+            150,
+            150
+        ],
+        "autosize_method": "maximum_boundingbox",
+        "x_margin": "auto",
+        "y_margin": "auto",
+        "size": [
+            600,
+            400
+        ],
+        "width": 600,
+        "height": 400,
+        "background_color": "white",
+        "background_shape": "\"auto\"",
+        "stim_mask": "\"none\"",
+        "stim_orientation": 0,
+        "stim_mirrorvalue": null,
+        "stim_link": null,
+        "stim_classlabel": null,
+        "stim_idlabel": null
+    },
+    "positions": {
+        "positiontype": "Circle",
+        "positionparameters": "{\"radius\": 140, \"n_elements\": 18, \"starting_point\": \"left\"}",
+        "jitter": null,
+        "jitterparameters": "{}",
+        "deviation": null,
+        "deviationparameters": "{}"
+    },
+    "elements": {
+        "element_id": "[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]",
+        "positions": "{\"py/object\": \"octa.Positions.Positions\", \"_x\": {\"py/object\": \"octa.patterns.Pattern.Pattern\", \"pattern\": [{\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/reduce\": [{\"py/type\": \"numpy.dtype\"}, {\"py/tuple\": [\"f8\", false, true]}, {\"py/tuple\": [3, \"<\", null, null, null, -1, -1, 0]}]}, {\"py/b64\": \"AAAAAACAYcA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"q/BErNJxYMA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"vb8SGsLPWsA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"/v////9/UcA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"XYbc+YxPOMA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"YYbc+YxPOEA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"AQAAAACAUUA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"vr8SGsLPWkA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"q/BErNJxYEA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"AAAAAACAYUA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"q/BErNJxYEA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"vr8SGsLPWkA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"AQAAAACAUUA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"YYbc+YxPOEA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"XYbc+YxPOMA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"/v////9/UcA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"vb8SGsLPWsA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"q/BErNJxYMA=\"}]}]}], \"patternclass\": \"Pattern\", \"patterntype\": \"\", \"patterndirection\": \"\"}, \"_y\": {\"py/object\": \"octa.patterns.Pattern.Pattern\", \"pattern\": [{\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"qETex7lNE70=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"F/12PwDxR8A=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"MbjxgWB/VsA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"25MgbpZPXsA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"XZvWUPA7YcA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"XZvWUPA7YcA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"2pMgbpZPXsA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"L7jxgWB/VsA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"FP12PwDxR8A=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"AAAAAAAAAAA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"FP12PwDxR0A=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"L7jxgWB/VkA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"2pMgbpZPXkA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"XZvWUPA7YUA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"XZvWUPA7YUA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"25MgbpZPXkA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"MbjxgWB/VkA=\"}]}]}, {\"py/reduce\": [{\"py/function\": \"numpy.core.multiarray.scalar\"}, {\"py/tuple\": [{\"py/id\": 4}, {\"py/b64\": \"F/12PwDxR0A=\"}]}]}], \"patternclass\": \"Pattern\", \"patterntype\": \"\", \"patterndirection\": \"\"}, \"_position_type\": \"Circle\", \"_position_parameters\": {\"radius\": 140, \"n_elements\": 18, \"starting_point\": \"left\"}, \"_deviation\": null, \"_deviation_parameters\": {}, \"_jitter\": null, \"_jitter_parameters\": {}}",
+        "shapes": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [{\"py/type\": \"octa.shapes.Image.Image_\"}], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 18, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "boundingboxes": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [{\"py/tuple\": [13, 50]}, {\"py/tuple\": [19, 75]}, {\"py/tuple\": [26, 100]}], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 18, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "fillcolors": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [\"dodgerblue\"], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 18, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "orientations": "{\"py/object\": \"octa.patterns.GridPattern.GradientAcrossElements\", \"start_value\": -90, \"end_value\": 270, \"n_rows\": 1, \"n_cols\": 18, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null, \"pattern\": [-90, -68.82352941176471, -47.64705882352942, -26.470588235294127, -5.294117647058833, 15.88235294117646, 37.058823529411754, 58.235294117647044, 79.41176470588233, 100.58823529411762, 121.76470588235291, 142.9411764705882, 164.1176470588235, 185.2941176470588, 206.47058823529412, 227.64705882352942, 248.82352941176472, 270.0], \"patterntype\": \"Gradient\", \"patterndirection\": \"AcrossElements\"}",
+        "borderwidths": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [0], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 18, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "bordercolors": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [\"\"], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 18, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "opacities": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [1], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 18, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "mirrorvalues": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [\"\"], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 18, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "links": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [\"\"], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 18, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "idlabels": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [\"\"], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 18, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "classlabels": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [\"\"], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 18, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "data": "{\"py/object\": \"octa.patterns.GridPattern.RepeatAcrossElements\", \"pattern\": [\"img/safety-pin.svg\"], \"patternclass\": \"GridPattern.\", \"patterntype\": \"Repeat\", \"patterndirection\": \"AcrossElements\", \"n_rows\": 1, \"n_cols\": 18, \"_jitter\": null, \"_jitter_parameters\": {}, \"_randomization\": null}",
+        "overrides": "[{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}]",
+        "element_order": "[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]"
+    }
+}

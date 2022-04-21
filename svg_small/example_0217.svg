@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="50.0px" viewBox="0 0 50.0 50.0" height="50.0px">
+  <g>
+    <g transform="translate(0, 0) scale(0.5 0.5) "><defs/>
+  <g transform=" rotate(0, 50, 50)">
+    <rect fill="#5EA1D8" height="100" width="100" x="0" y="0"/>
+    <rect fill="#5EA1D8" height="100" opacity="1" stroke-width="0" transform=" rotate(0, 50, 50)" width="100" x="0.0" y="0.0"/>
+    <text fill="lightgrey" opacity="1" stroke-width="0" style="text-align: middle; font-size:94.85px; font-family: Arial" text-anchor="middle" textLength="100%" transform=" rotate(0, 50, 50)" x="50.0" y="83.95">L</text>
+  </g>
+</g>
+  </g>
+</svg>
