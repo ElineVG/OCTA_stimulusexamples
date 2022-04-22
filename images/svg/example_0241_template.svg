@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="200" version="1.1" width="200">
+  <defs/>
+  <g transform=" rotate(0, 100, 100)">
+    <rect fill="white" height="200" width="200" x="0" y="0"/>
+    <path d="M 46.94,0 C 65.14,-0.34 82.61,10.56 88.53,33.31 C 97.03,65.96 77.15,111.31 47.53,122.87 L 22.58,122.87 C 31.8,112.29 61.2,84.47 56.76,69.47 C 49.85,77.41 39.76,80.47 30,79.31 C -19.27,73.68 -3.79,0.94 46.94,0 Z" fill="black" opacity="1" stroke-width="0" transform=" scale(0.773422, 0.813919) translate(84.042113, 61.431144) rotate(20, 45, 61)"/>
+  </g>
+</svg>
