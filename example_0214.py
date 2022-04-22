@@ -51,7 +51,7 @@ stim.shapes = GridPattern.RepeatAcrossElements([Image("svg/" + stimname + "_temp
 stim.orientations = GridPattern.RepeatAcrossElements([0, 180])
 
 # Change element positions
-stim.positions.SetPositionDeviations(element_id = list(range(0,n_translations, 2)), x_offset = 0, y_offset = basesize[1])
+stim.positions.SetPositionDeviations(element_id = list(range(0,n_translations, 2)), x_offset = 0, y_offset = -basesize[1])
 
 # Save stimulus
 stim.Show()
