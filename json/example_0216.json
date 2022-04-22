@@ -9,14 +9,17 @@
         "shape": null,
         "shape_boundingbox": null,
         "autosize_method": "maximum_boundingbox",
-        "x_margin": "auto",
-        "y_margin": "auto",
-        "size": [
-            850.0,
-            250.0
+        "x_margin": [
+            20,
+            20
         ],
-        "width": 850.0,
-        "height": 250.0,
+        "y_margin": [
+            20,
+            20
+        ],
+        "size": "auto",
+        "width": 840,
+        "height": 240,
         "background_color": "white",
         "background_shape": "\"auto\"",
         "stim_mask": "\"none\"",
