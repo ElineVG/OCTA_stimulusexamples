@@ -5,7 +5,7 @@ created by Eline Van Geert
 Image used: fox by Horoofi from Pixabay
 https://pixabay.com/illustrations/fox-animal-cartoon-drawing-sketch-3823023/
 
-Frieze pattern 2: p1a1 (translation & glide reflection)
+Frieze pattern: p11g (IUCr) or 'step' (Conway) or TG (translations & glide reflections)
 """
 
 # Load necessary objects and functions from OCTA

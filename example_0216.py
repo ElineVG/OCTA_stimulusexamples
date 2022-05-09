@@ -5,7 +5,7 @@ created by Eline Van Geert
 Image used: fox by Horoofi from Pixabay
 https://pixabay.com/illustrations/fox-animal-cartoon-drawing-sketch-3823023/
 
-Frieze pattern 7: pmm2 (translation, horizontal and vertical reflection, & 180° rotation)
+Frieze pattern: p2mm (IUCr) or 'spinning jump' (Conway) or TRHVG (translations, 180° rotations, horizontal and vertical reflection lines, & glide reflections)
 """
 
 # Load necessary objects and functions from OCTA

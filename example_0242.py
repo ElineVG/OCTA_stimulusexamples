@@ -30,7 +30,7 @@ figsize = ((basesize[0]*n_translations)+basesize[0]/2, (basesize[1]*2)+basesize[
 figsize_halfline = ((basesize[0]*n_translations)+basesize[0]/2, (basesize[1])+basesize[1]/2)
 background = "white"
 
-# 1) Define stimulus p111 (T)
+# 1) Define stimulus p1 (IUCr) or 'hop' (Conway) or T (translations only)
 stimulus = Grid(n_cols = n_translations, n_rows = 1,
                 col_spacing = basesize[0], row_spacing = basesize[1], 
                 background_color = background, size = figsize_halfline)
@@ -40,7 +40,7 @@ stimulus.boundingboxes = GridPattern.RepeatAcrossElements([basesize])
 stimulus.Show()
 stimulus.SaveSVG(stimname + "p111", folder = "svg")
 
-# 2) Define stimulus pm11 (TV)
+# 2) Define stimulus p1m1 (IUCr) or 'sidle' (Conway) or TV (translations & vertical reflection lines)
 stimulus = Grid(n_cols = n_translations, n_rows = 1,
                 col_spacing = basesize[0], row_spacing = basesize[1], 
                 background_color = background, size = figsize_halfline)
@@ -51,7 +51,7 @@ stimulus.mirrorvalues = GridPattern.RepeatAcrossColumns(["none", "vertical"])
 stimulus.Show()
 stimulus.SaveSVG(stimname + "pm11", folder = "svg")
 
-# 3) Define stimulus p1a1 (TG)
+# 3) Define stimulus p11g (IUCr) or 'step' (Conway) or TG (translations & glide reflections)
 stimulus = Grid(n_cols = n_translations, n_rows = 1,
                 col_spacing = basesize[0], row_spacing = basesize[1], 
                 background_color = background, size = figsize)
@@ -64,7 +64,7 @@ stimulus.positions.SetPositionDeviations(element_id = list(range(0,n_translation
 stimulus.Show()
 stimulus.SaveSVG(stimname + "p1a1", folder = "svg")
 
-# 4) Define stimulus p112 (TR)
+# 4) Define stimulus p211 (IUCr) or ‘spinning hop’ (Conway) or TR (translations & 180° rotations)
 stimulus = Grid(n_cols = n_translations, n_rows = 1,
                 col_spacing = basesize[0], row_spacing = basesize[1], 
                 background_color = background, size = figsize)
@@ -77,7 +77,7 @@ stimulus.positions.SetPositionDeviations(element_id = list(range(0,n_translation
 stimulus.Show()
 stimulus.SaveSVG(stimname + "p112", folder = "svg")
 
-# 5) Define stimulus p1m1 (THG)
+# 5) Define stimulus p11m (IUCr) or 'jump' (Conway) or THG (translations, horizontal reflections, & glide reflections)
 stimulus = Grid(n_cols = n_translations, n_rows = 2,
                 col_spacing = basesize[0], row_spacing = basesize[1], 
                 background_color = background, size = figsize)
@@ -88,7 +88,7 @@ stimulus.mirrorvalues = GridPattern.RepeatAcrossRows(["none", "horizontal"])
 stimulus.Show()
 stimulus.SaveSVG(stimname + "p1m1", folder = "svg")
 
-# 6) Define stimulus pma2(TRVG)
+# 6) Define stimulus p2mg (IUCr) or 'spinning sidle' (Conway) or TRVG (translations, 180° rotations, vertical reflection lines, and glide reflections)
 stimulus = Grid(n_cols = n_translations, n_rows = 1,
                 col_spacing = basesize[0], row_spacing = basesize[1], 
                 background_color = background, size = figsize)
@@ -102,7 +102,7 @@ stimulus.positions.SetPositionDeviations(element_id = [0,1,4,5], x_offset = 0,
 stimulus.Show()
 stimulus.SaveSVG(stimname + "pma2", folder = "svg")
 
-# 7) Define stimulus pmm2 (TRHVG)
+# 7) Define stimulus p2mm (IUCr) or 'spinning jump' (Conway) or TRHVG (translations, 180° rotations, horizontal and vertical reflection lines, & glide reflections)
 stimulus = Grid(n_cols = n_translations, n_rows = 8,
                 col_spacing = basesize[0], row_spacing = basesize[1], 
                 background_color = background, y_margin = [20, 20-6*basesize[1]])

@@ -5,7 +5,7 @@ created by Eline Van Geert
 Image used: fox by Horoofi from Pixabay
 https://pixabay.com/illustrations/fox-animal-cartoon-drawing-sketch-3823023/
 
-Frieze pattern 6: p1m1 (translation & horizontal reflection)
+Frieze pattern: p11m (IUCr) or 'jump' (Conway) or THG (translations, horizontal reflections, & glide reflections)
 """
 
 # Load necessary objects and functions from OCTA

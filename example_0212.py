@@ -5,7 +5,7 @@ created by Eline Van Geert
 Image used: fox by Horoofi from Pixabay
 https://pixabay.com/illustrations/fox-animal-cartoon-drawing-sketch-3823023/
 
-Frieze pattern 3: pm11 (translation & vertical reflection)
+Frieze pattern: p1m1 (IUCr) or 'sidle' (Conway) or TV (translations & vertical reflection lines)
 """
 
 # Load necessary objects and functions from OCTA

@@ -5,7 +5,7 @@ created by Eline Van Geert
 Image used: fox by Horoofi from Pixabay
 https://pixabay.com/illustrations/fox-animal-cartoon-drawing-sketch-3823023/
 
-Frieze pattern 4: p112 (translation & 180° rotation)
+Frieze pattern: p211 (IUCr) or 'spinning hop' (Conway) or TR (translations & 180° rotations)
 """
 
 # Load necessary objects and functions from OCTA
