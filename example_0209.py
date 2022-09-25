@@ -13,7 +13,8 @@ from octa.patterns import GridPattern
 from octa.shapes import Image
 import random
 
-# Set seed
+# Set seed to make reproducible and get same stimulus every time (!)
+# this specific seed example is different from the one in the publication
 random.seed(125671212325)
 
 # Define stimulus name
@@ -36,8 +37,13 @@ stim.orientations = GridPattern.GradientAcrossElements( -90, 270 )
 
 # Save stimulus
 stim.Show()
+random.seed(125671212325)
 stim.SaveSVG(stimname, folder = "svg")
+random.seed(125671212325)
 stim.SaveSVG(stimname, scale = 0.5, folder = "svg_small")
+random.seed(125671212325)
 stim.SaveJSON(stimname, folder = "json")
+random.seed(125671212325)
 stim.SavePNG(stimname, folder = "png")
+random.seed(125671212325)
 stim.SavePNG(stimname, scale = 10, folder = "png10")

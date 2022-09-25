@@ -17,6 +17,7 @@ import random
 # Define stimulus name
 stimname = "example_0100"
 
+# Set seed
 random.seed(5)
 
 # Define stimulus
@@ -35,8 +36,13 @@ stim.orientations = GridPattern.RepeatAcrossElements([0]).AddUniformJitter(-180,
 
 # Save stimulus
 stim.Show()
+random.seed(5)
 stim.SaveSVG(stimname, folder = "svg")
+random.seed(5)
 stim.SaveSVG(stimname, scale = 0.5, folder = "svg_small")
+random.seed(5)
 stim.SaveJSON(stimname, folder = "json")
+random.seed(5)
 stim.SavePNG(stimname, folder = "png")
+random.seed(5)
 stim.SavePNG(stimname, scale = 10, folder = "png10")

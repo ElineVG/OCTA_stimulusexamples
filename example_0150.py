@@ -31,8 +31,13 @@ stim.set_element_orientations(-30, n_changes = 1)
 
 # Save stimulus
 stim.Show()
+random.seed(15)
 stim.SaveSVG(stimname, folder = "svg")
+random.seed(15)
 stim.SaveSVG(stimname, scale = 0.5, folder = "svg_small")
+random.seed(15)
 stim.SaveJSON(stimname, folder = "json")
+random.seed(15)
 stim.SavePNG(stimname, folder = "png")
+random.seed(15)
 stim.SavePNG(stimname, scale = 10, folder = "png10")

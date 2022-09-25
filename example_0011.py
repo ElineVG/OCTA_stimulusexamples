@@ -34,8 +34,13 @@ stim.fillcolors = GridPattern.GradientAcrossColumns( start_value = 'limegreen', 
 
 # Save stimulus
 stim.Show()
+random.seed(23449870)
 stim.SaveSVG(stimname, folder = "svg")
+random.seed(23449870)
 stim.SaveSVG(stimname, scale = 0.5, folder = "svg_small")
+random.seed(23449870)
 stim.SaveJSON(stimname, folder = "json")
+random.seed(23449870)
 stim.SavePNG(stimname, folder = "png")
+random.seed(23449870)
 stim.SavePNG(stimname, scale = 10, folder = "png10")

@@ -37,8 +37,13 @@ stim.mirrorvalues = GridPattern.ElementRepeatAcrossLayers( [ 'vertical', 'none' 
 
 # Save stimulus
 stim.Show()
+random.seed(1635413196)
 stim.SaveSVG(stimname, folder = "svg")
+random.seed(1635413196)
 stim.SaveSVG(stimname, scale = 0.5, folder = "svg_small")
+random.seed(1635413196)
 stim.SaveJSON(stimname, folder = "json")
+random.seed(1635413196)
 stim.SavePNG(stimname, folder = "png")
+random.seed(1635413196)
 stim.SavePNG(stimname, scale = 10, folder = "png10")

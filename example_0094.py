@@ -33,8 +33,13 @@ stim.swap_distinct_elements(n_swap_pairs=12)
 
 # Save stimulus
 stim.Show()
+random.seed(10)
 stim.SaveSVG(stimname, folder = "svg")
+random.seed(10)
 stim.SaveSVG(stimname, scale = 0.5, folder = "svg_small")
+random.seed(10)
 stim.SaveJSON(stimname, folder = "json")
+random.seed(10)
 stim.SavePNG(stimname, folder = "png")
+random.seed(10)
 stim.SavePNG(stimname, scale = 10, folder = "png10")
